@@ -1,0 +1,182 @@
+[
+  {
+    "full_name": "marcingrzejszczak/observability-boot-blog-post",
+    "stargazers_count": 20,
+    "open_issues_count": 0,
+    "forks_count": 9
+  },
+  {
+    "full_name": "blueswen/spring-boot-observability",
+    "stargazers_count": 15,
+    "open_issues_count": 0,
+    "forks_count": 6
+  },
+  {
+    "full_name": "bbenz/DevOpsforJavaShops",
+    "stargazers_count": 47,
+    "open_issues_count": 0,
+    "forks_count": 26
+  },
+  {
+    "full_name": "PacktPublishing/Automating-Workflows-with-GitHub-Actions",
+    "stargazers_count": 33,
+    "open_issues_count": 0,
+    "forks_count": 49
+  },
+  {
+    "full_name": "open-telemetry/opentelemetry-demo",
+    "stargazers_count": 494,
+    "open_issues_count": 58,
+    "forks_count": 224
+  },
+  {
+    "full_name": "wenqiglantz/customerservice-spring-boot-3",
+    "stargazers_count": 3,
+    "open_issues_count": 4,
+    "forks_count": 3
+  },
+  {
+    "full_name": "k88hudson/git-flight-rules",
+    "stargazers_count": 40652,
+    "open_issues_count": 15,
+    "forks_count": 3145
+  },
+  {
+    "full_name": "wenqiglantz/reusable-workflows-modules",
+    "stargazers_count": 4,
+    "open_issues_count": 4,
+    "forks_count": 5
+  },
+  {
+    "full_name": "wenqiglantz/springboot-infracost-demo",
+    "stargazers_count": 4,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "wolfcw/libfaketime",
+    "stargazers_count": 2225,
+    "open_issues_count": 19,
+    "forks_count": 276
+  },
+  {
+    "full_name": "cmdr2/stable-diffusion-ui",
+    "stargazers_count": 3633,
+    "open_issues_count": 157,
+    "forks_count": 289
+  },
+  {
+    "full_name": "kubecon-us-2022-argo/control-plane",
+    "stargazers_count": 21,
+    "open_issues_count": 0,
+    "forks_count": 7
+  },
+  {
+    "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+    "stargazers_count": 27698,
+    "open_issues_count": 1507,
+    "forks_count": 5171
+  },
+  {
+    "full_name": "yosriady/awesome-api-devtools",
+    "stargazers_count": 2915,
+    "open_issues_count": 2,
+    "forks_count": 453
+  },
+  {
+    "full_name": "piomin/sample-spring-kafka-transactions",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "strapi/strapi",
+    "stargazers_count": 51040,
+    "open_issues_count": 385,
+    "forks_count": 6197
+  },
+  {
+    "full_name": "nginxinc/kic-reference-architectures",
+    "stargazers_count": 558,
+    "open_issues_count": 57,
+    "forks_count": 80
+  },
+  {
+    "full_name": "alexandrevilain/temporal-operator",
+    "stargazers_count": 38,
+    "open_issues_count": 9,
+    "forks_count": 3
+  },
+  {
+    "full_name": "christosgkoros/openapi-to-grpc-quarkus",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "rautio/micro-frontend-demo",
+    "stargazers_count": 45,
+    "open_issues_count": 0,
+    "forks_count": 19
+  },
+  {
+    "full_name": "eclipse/jkube",
+    "stargazers_count": 460,
+    "open_issues_count": 194,
+    "forks_count": 284
+  },
+  {
+    "full_name": "PacktPublishing/Modernizing-Applications-with-Google-Cloud-Platform",
+    "stargazers_count": 10,
+    "open_issues_count": 0,
+    "forks_count": 14
+  },
+  {
+    "full_name": "wdzeng/shopee-coins-bot",
+    "stargazers_count": 332,
+    "open_issues_count": 7,
+    "forks_count": 687
+  },
+  {
+    "full_name": "tsurdilo/temporal-java-workshop",
+    "stargazers_count": 36,
+    "open_issues_count": 2,
+    "forks_count": 26
+  },
+  {
+    "full_name": "upadhyaybs/temporal-patient-onboarding-v2",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "tsurdilo/temporal-patient-onboarding",
+    "stargazers_count": 29,
+    "open_issues_count": 0,
+    "forks_count": 18
+  },
+  {
+    "full_name": "wdzeng/bot-automation",
+    "stargazers_count": 583,
+    "open_issues_count": 4,
+    "forks_count": 2207
+  },
+  {
+    "full_name": "spinscale/spring-boot-app-search",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "adamquan/hello-observability",
+    "stargazers_count": 30,
+    "open_issues_count": 1,
+    "forks_count": 21
+  },
+  {
+    "full_name": "nginxinc/bank-of-sirius",
+    "stargazers_count": 44,
+    "open_issues_count": 18,
+    "forks_count": 14
+  }
+]
