@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "keyval-dev/odigos",
+    "stargazers_count": 984,
+    "open_issues_count": 14,
+    "forks_count": 30
+  },
+  {
     "full_name": "mysql/mysql-ndb-operator",
     "stargazers_count": 23,
     "open_issues_count": 0,
@@ -19,13 +25,13 @@
   },
   {
     "full_name": "blueswen/spring-boot-observability",
-    "stargazers_count": 20,
+    "stargazers_count": 24,
     "open_issues_count": 0,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "bbenz/DevOpsforJavaShops",
-    "stargazers_count": 47,
+    "stargazers_count": 46,
     "open_issues_count": 0,
     "forks_count": 26
   },
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "open-telemetry/opentelemetry-demo",
-    "stargazers_count": 609,
+    "stargazers_count": 621,
     "open_issues_count": 25,
-    "forks_count": 279
+    "forks_count": 285
   },
   {
     "full_name": "wenqiglantz/customerservice-spring-boot-3",
@@ -49,15 +55,15 @@
   },
   {
     "full_name": "k88hudson/git-flight-rules",
-    "stargazers_count": 40787,
+    "stargazers_count": 40821,
     "open_issues_count": 15,
-    "forks_count": 3168
+    "forks_count": 3171
   },
   {
     "full_name": "wenqiglantz/reusable-workflows-modules",
     "stargazers_count": 9,
-    "open_issues_count": 5,
-    "forks_count": 7
+    "open_issues_count": 6,
+    "forks_count": 10
   },
   {
     "full_name": "wenqiglantz/springboot-infracost-demo",
@@ -67,15 +73,15 @@
   },
   {
     "full_name": "wolfcw/libfaketime",
-    "stargazers_count": 2255,
-    "open_issues_count": 16,
+    "stargazers_count": 2256,
+    "open_issues_count": 17,
     "forks_count": 280
   },
   {
     "full_name": "cmdr2/stable-diffusion-ui",
-    "stargazers_count": 4141,
-    "open_issues_count": 197,
-    "forks_count": 347
+    "stargazers_count": 4219,
+    "open_issues_count": 202,
+    "forks_count": 350
   },
   {
     "full_name": "kubecon-us-2022-argo/control-plane",
@@ -85,15 +91,15 @@
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 32614,
-    "open_issues_count": 1380,
-    "forks_count": 6253
+    "stargazers_count": 33693,
+    "open_issues_count": 1400,
+    "forks_count": 6436
   },
   {
     "full_name": "yosriady/awesome-api-devtools",
-    "stargazers_count": 3020,
+    "stargazers_count": 3033,
     "open_issues_count": 2,
-    "forks_count": 472
+    "forks_count": 473
   },
   {
     "full_name": "piomin/sample-spring-kafka-transactions",
@@ -103,20 +109,20 @@
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 51818,
-    "open_issues_count": 366,
-    "forks_count": 6298
+    "stargazers_count": 51901,
+    "open_issues_count": 372,
+    "forks_count": 6312
   },
   {
     "full_name": "nginxinc/kic-reference-architectures",
-    "stargazers_count": 566,
+    "stargazers_count": 567,
     "open_issues_count": 55,
     "forks_count": 84
   },
   {
     "full_name": "alexandrevilain/temporal-operator",
     "stargazers_count": 43,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 4
   },
   {
@@ -127,14 +133,14 @@
   },
   {
     "full_name": "rautio/micro-frontend-demo",
-    "stargazers_count": 54,
+    "stargazers_count": 55,
     "open_issues_count": 0,
     "forks_count": 19
   },
   {
     "full_name": "eclipse/jkube",
     "stargazers_count": 472,
-    "open_issues_count": 200,
+    "open_issues_count": 194,
     "forks_count": 289
   },
   {
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "wdzeng/shopee-coins-bot",
-    "stargazers_count": 348,
+    "stargazers_count": 349,
     "open_issues_count": 8,
-    "forks_count": 706
+    "forks_count": 710
   },
   {
     "full_name": "tsurdilo/temporal-java-workshop",
@@ -172,11 +178,5 @@
     "stargazers_count": 582,
     "open_issues_count": 4,
     "forks_count": 2206
-  },
-  {
-    "full_name": "spinscale/spring-boot-app-search",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 2
   }
 ]
