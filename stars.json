@@ -1,14 +1,14 @@
 [
   {
     "full_name": "openai/openai-cookbook",
-    "stargazers_count": 14688,
-    "open_issues_count": 36,
-    "forks_count": 1939
+    "stargazers_count": 16255,
+    "open_issues_count": 40,
+    "forks_count": 2149
   },
   {
     "full_name": "keyval-dev/odigos",
-    "stargazers_count": 1023,
-    "open_issues_count": 14,
+    "stargazers_count": 1035,
+    "open_issues_count": 13,
     "forks_count": 31
   },
   {
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "wenqiglantz/customer-service-reusable-workflows-example",
-    "stargazers_count": 4,
+    "stargazers_count": 6,
     "open_issues_count": 4,
     "forks_count": 2
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "blueswen/spring-boot-observability",
-    "stargazers_count": 25,
-    "open_issues_count": 0,
-    "forks_count": 22
+    "stargazers_count": 27,
+    "open_issues_count": 1,
+    "forks_count": 23
   },
   {
     "full_name": "bbenz/DevOpsforJavaShops",
@@ -43,31 +43,31 @@
   },
   {
     "full_name": "PacktPublishing/Automating-Workflows-with-GitHub-Actions",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 0,
     "forks_count": 50
   },
   {
     "full_name": "open-telemetry/opentelemetry-demo",
-    "stargazers_count": 676,
-    "open_issues_count": 29,
-    "forks_count": 310
+    "stargazers_count": 687,
+    "open_issues_count": 30,
+    "forks_count": 312
   },
   {
     "full_name": "wenqiglantz/customerservice-spring-boot-3",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 5,
     "forks_count": 4
   },
   {
     "full_name": "k88hudson/git-flight-rules",
-    "stargazers_count": 40869,
+    "stargazers_count": 40883,
     "open_issues_count": 16,
-    "forks_count": 3178
+    "forks_count": 3177
   },
   {
     "full_name": "wenqiglantz/reusable-workflows-modules",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 6,
     "forks_count": 11
   },
@@ -81,13 +81,13 @@
     "full_name": "wolfcw/libfaketime",
     "stargazers_count": 2261,
     "open_issues_count": 17,
-    "forks_count": 282
+    "forks_count": 283
   },
   {
     "full_name": "cmdr2/stable-diffusion-ui",
-    "stargazers_count": 4557,
-    "open_issues_count": 224,
-    "forks_count": 385
+    "stargazers_count": 4650,
+    "open_issues_count": 236,
+    "forks_count": 394
   },
   {
     "full_name": "kubecon-us-2022-argo/control-plane",
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 42714,
-    "open_issues_count": 1531,
-    "forks_count": 7898
+    "stargazers_count": 44488,
+    "open_issues_count": 1547,
+    "forks_count": 8214
   },
   {
     "full_name": "yosriady/awesome-api-devtools",
-    "stargazers_count": 3051,
+    "stargazers_count": 3054,
     "open_issues_count": 2,
-    "forks_count": 478
+    "forks_count": 479
   },
   {
     "full_name": "piomin/sample-spring-kafka-transactions",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 52189,
-    "open_issues_count": 359,
-    "forks_count": 6347
+    "stargazers_count": 52252,
+    "open_issues_count": 369,
+    "forks_count": 6361
   },
   {
     "full_name": "nginxinc/kic-reference-architectures",
@@ -127,8 +127,8 @@
   },
   {
     "full_name": "alexandrevilain/temporal-operator",
-    "stargazers_count": 45,
-    "open_issues_count": 19,
+    "stargazers_count": 46,
+    "open_issues_count": 14,
     "forks_count": 5
   },
   {
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "rautio/micro-frontend-demo",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 0,
     "forks_count": 22
   },
   {
     "full_name": "eclipse/jkube",
-    "stargazers_count": 477,
+    "stargazers_count": 479,
     "open_issues_count": 190,
-    "forks_count": 289
+    "forks_count": 291
   },
   {
     "full_name": "PacktPublishing/Modernizing-Applications-with-Google-Cloud-Platform",
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "wdzeng/shopee-coins-bot",
-    "stargazers_count": 352,
+    "stargazers_count": 350,
     "open_issues_count": 8,
-    "forks_count": 714
+    "forks_count": 717
   },
   {
     "full_name": "tsurdilo/temporal-java-workshop",
     "stargazers_count": 39,
     "open_issues_count": 2,
-    "forks_count": 31
+    "forks_count": 32
   },
   {
     "full_name": "upadhyaybs/temporal-patient-onboarding-v2",
