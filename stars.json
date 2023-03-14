@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "wenqiglantz/chatgpt-whisper-spring-boot",
+    "stargazers_count": 9,
+    "open_issues_count": 5,
+    "forks_count": 7
+  },
+  {
     "full_name": "openai/openai-cookbook",
-    "stargazers_count": 16962,
-    "open_issues_count": 46,
-    "forks_count": 2274
+    "stargazers_count": 17538,
+    "open_issues_count": 53,
+    "forks_count": 2387
   },
   {
     "full_name": "keyval-dev/odigos",
-    "stargazers_count": 1043,
+    "stargazers_count": 1050,
     "open_issues_count": 13,
-    "forks_count": 31
+    "forks_count": 32
   },
   {
     "full_name": "mysql/mysql-ndb-operator",
@@ -20,26 +26,26 @@
   {
     "full_name": "wenqiglantz/customer-service-reusable-workflows-example",
     "stargazers_count": 6,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 2
   },
   {
     "full_name": "marcingrzejszczak/observability-boot-blog-post",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 0,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "blueswen/spring-boot-observability",
-    "stargazers_count": 28,
+    "stargazers_count": 30,
     "open_issues_count": 1,
-    "forks_count": 24
+    "forks_count": 27
   },
   {
     "full_name": "bbenz/DevOpsforJavaShops",
     "stargazers_count": 46,
     "open_issues_count": 0,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "PacktPublishing/Automating-Workflows-with-GitHub-Actions",
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "open-telemetry/opentelemetry-demo",
-    "stargazers_count": 700,
-    "open_issues_count": 34,
-    "forks_count": 318
+    "stargazers_count": 706,
+    "open_issues_count": 30,
+    "forks_count": 323
   },
   {
     "full_name": "wenqiglantz/customerservice-spring-boot-3",
@@ -61,7 +67,7 @@
   },
   {
     "full_name": "k88hudson/git-flight-rules",
-    "stargazers_count": 40889,
+    "stargazers_count": 40893,
     "open_issues_count": 16,
     "forks_count": 3177
   },
@@ -79,15 +85,15 @@
   },
   {
     "full_name": "wolfcw/libfaketime",
-    "stargazers_count": 2264,
+    "stargazers_count": 2265,
     "open_issues_count": 17,
     "forks_count": 283
   },
   {
     "full_name": "cmdr2/stable-diffusion-ui",
-    "stargazers_count": 4701,
-    "open_issues_count": 245,
-    "forks_count": 402
+    "stargazers_count": 4782,
+    "open_issues_count": 253,
+    "forks_count": 409
   },
   {
     "full_name": "kubecon-us-2022-argo/control-plane",
@@ -97,38 +103,38 @@
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 45797,
-    "open_issues_count": 1577,
-    "forks_count": 8457
+    "stargazers_count": 47396,
+    "open_issues_count": 1575,
+    "forks_count": 8770
   },
   {
     "full_name": "yosriady/awesome-api-devtools",
-    "stargazers_count": 3063,
+    "stargazers_count": 3066,
     "open_issues_count": 3,
-    "forks_count": 481
+    "forks_count": 482
   },
   {
     "full_name": "piomin/sample-spring-kafka-transactions",
-    "stargazers_count": 6,
+    "stargazers_count": 10,
     "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 52328,
-    "open_issues_count": 369,
-    "forks_count": 6372
+    "stargazers_count": 52403,
+    "open_issues_count": 368,
+    "forks_count": 6387
   },
   {
     "full_name": "nginxinc/kic-reference-architectures",
-    "stargazers_count": 571,
+    "stargazers_count": 573,
     "open_issues_count": 55,
-    "forks_count": 84
+    "forks_count": 85
   },
   {
     "full_name": "alexandrevilain/temporal-operator",
     "stargazers_count": 46,
-    "open_issues_count": 18,
+    "open_issues_count": 19,
     "forks_count": 5
   },
   {
@@ -141,25 +147,25 @@
     "full_name": "rautio/micro-frontend-demo",
     "stargazers_count": 65,
     "open_issues_count": 0,
-    "forks_count": 23
+    "forks_count": 24
   },
   {
     "full_name": "eclipse/jkube",
-    "stargazers_count": 480,
-    "open_issues_count": 190,
+    "stargazers_count": 482,
+    "open_issues_count": 193,
     "forks_count": 291
   },
   {
     "full_name": "PacktPublishing/Modernizing-Applications-with-Google-Cloud-Platform",
-    "stargazers_count": 11,
+    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "wdzeng/shopee-coins-bot",
-    "stargazers_count": 351,
+    "stargazers_count": 354,
     "open_issues_count": 8,
-    "forks_count": 720
+    "forks_count": 719
   },
   {
     "full_name": "tsurdilo/temporal-java-workshop",
@@ -172,11 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "tsurdilo/temporal-patient-onboarding",
-    "stargazers_count": 31,
-    "open_issues_count": 0,
-    "forks_count": 20
   }
 ]
