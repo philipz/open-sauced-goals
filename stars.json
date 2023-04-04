@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "camunda-community-hub/camunda-platform-7-keycloak",
+    "stargazers_count": 112,
+    "open_issues_count": 4,
+    "forks_count": 60
+  },
+  {
+    "full_name": "Azure-Samples/PetSpotR",
+    "stargazers_count": 34,
+    "open_issues_count": 7,
+    "forks_count": 18
+  },
+  {
     "full_name": "bpmn-io/bpmnlint",
     "stargazers_count": 96,
     "open_issues_count": 14,
@@ -7,15 +19,15 @@
   },
   {
     "full_name": "camenduru/stable-diffusion-webui-colab",
-    "stargazers_count": 6232,
-    "open_issues_count": 16,
-    "forks_count": 1017
+    "stargazers_count": 7070,
+    "open_issues_count": 14,
+    "forks_count": 1135
   },
   {
     "full_name": "cardano-foundation/developer-portal",
-    "stargazers_count": 303,
-    "open_issues_count": 27,
-    "forks_count": 746
+    "stargazers_count": 305,
+    "open_issues_count": 31,
+    "forks_count": 750
   },
   {
     "full_name": "NPDeehan/CamundaSagaPatternExample",
@@ -31,21 +43,21 @@
   },
   {
     "full_name": "wenqiglantz/chatgpt-whisper-spring-boot",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 6,
     "forks_count": 8
   },
   {
     "full_name": "openai/openai-cookbook",
-    "stargazers_count": 24028,
-    "open_issues_count": 74,
-    "forks_count": 3353
+    "stargazers_count": 25423,
+    "open_issues_count": 82,
+    "forks_count": 3558
   },
   {
     "full_name": "keyval-dev/odigos",
-    "stargazers_count": 1084,
-    "open_issues_count": 14,
-    "forks_count": 33
+    "stargazers_count": 1094,
+    "open_issues_count": 38,
+    "forks_count": 35
   },
   {
     "full_name": "mysql/mysql-ndb-operator",
@@ -67,15 +79,15 @@
   },
   {
     "full_name": "blueswen/spring-boot-observability",
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 1,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "bbenz/DevOpsforJavaShops",
-    "stargazers_count": 46,
+    "stargazers_count": 47,
     "open_issues_count": 0,
-    "forks_count": 27
+    "forks_count": 28
   },
   {
     "full_name": "PacktPublishing/Automating-Workflows-with-GitHub-Actions",
@@ -85,8 +97,8 @@
   },
   {
     "full_name": "open-telemetry/opentelemetry-demo",
-    "stargazers_count": 736,
-    "open_issues_count": 29,
+    "stargazers_count": 744,
+    "open_issues_count": 19,
     "forks_count": 347
   },
   {
@@ -97,13 +109,13 @@
   },
   {
     "full_name": "k88hudson/git-flight-rules",
-    "stargazers_count": 40927,
+    "stargazers_count": 40925,
     "open_issues_count": 16,
-    "forks_count": 3186
+    "forks_count": 3185
   },
   {
     "full_name": "wenqiglantz/reusable-workflows-modules",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 6,
     "forks_count": 11
   },
@@ -115,15 +127,15 @@
   },
   {
     "full_name": "wolfcw/libfaketime",
-    "stargazers_count": 2269,
+    "stargazers_count": 2272,
     "open_issues_count": 17,
     "forks_count": 285
   },
   {
     "full_name": "cmdr2/stable-diffusion-ui",
-    "stargazers_count": 5234,
-    "open_issues_count": 280,
-    "forks_count": 435
+    "stargazers_count": 5352,
+    "open_issues_count": 288,
+    "forks_count": 443
   },
   {
     "full_name": "kubecon-us-2022-argo/control-plane",
@@ -133,15 +145,15 @@
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 56021,
-    "open_issues_count": 1787,
-    "forks_count": 10372
+    "stargazers_count": 58021,
+    "open_issues_count": 1847,
+    "forks_count": 10772
   },
   {
     "full_name": "yosriady/awesome-api-devtools",
-    "stargazers_count": 3090,
+    "stargazers_count": 3098,
     "open_issues_count": 2,
-    "forks_count": 482
+    "forks_count": 483
   },
   {
     "full_name": "piomin/sample-spring-kafka-transactions",
@@ -151,9 +163,9 @@
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 52762,
-    "open_issues_count": 357,
-    "forks_count": 6399
+    "stargazers_count": 52841,
+    "open_issues_count": 373,
+    "forks_count": 6413
   },
   {
     "full_name": "nginxinc/kic-reference-architectures",
@@ -164,19 +176,7 @@
   {
     "full_name": "alexandrevilain/temporal-operator",
     "stargazers_count": 49,
-    "open_issues_count": 20,
+    "open_issues_count": 19,
     "forks_count": 6
-  },
-  {
-    "full_name": "christosgkoros/openapi-to-grpc-quarkus",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "rautio/micro-frontend-demo",
-    "stargazers_count": 66,
-    "open_issues_count": 0,
-    "forks_count": 25
   }
 ]
