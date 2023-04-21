@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "viadee/camunda-modeler-tooltip-plugin",
+    "stargazers_count": 47,
+    "open_issues_count": 1,
+    "forks_count": 10
+  },
+  {
     "full_name": "linyiLYi/street-fighter-ai",
-    "stargazers_count": 2530,
-    "open_issues_count": 17,
-    "forks_count": 469
+    "stargazers_count": 3743,
+    "open_issues_count": 31,
+    "forks_count": 691
   },
   {
     "full_name": "theseyan/bkg",
-    "stargazers_count": 151,
+    "stargazers_count": 153,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "camunda-consulting/camunda-7-code-examples",
-    "stargazers_count": 558,
+    "stargazers_count": 561,
     "open_issues_count": 425,
-    "forks_count": 1008
+    "forks_count": 1010
   },
   {
     "full_name": "berndruecker/camunda-7-springboot-amqp-microservice-cloud-example",
@@ -55,15 +61,15 @@
   },
   {
     "full_name": "camenduru/stable-diffusion-webui-colab",
-    "stargazers_count": 9172,
-    "open_issues_count": 14,
-    "forks_count": 1508
+    "stargazers_count": 9484,
+    "open_issues_count": 12,
+    "forks_count": 1550
   },
   {
     "full_name": "cardano-foundation/developer-portal",
     "stargazers_count": 307,
-    "open_issues_count": 27,
-    "forks_count": 763
+    "open_issues_count": 28,
+    "forks_count": 766
   },
   {
     "full_name": "NPDeehan/CamundaSagaPatternExample",
@@ -74,30 +80,30 @@
   {
     "full_name": "jhipster/jhipster-online",
     "stargazers_count": 184,
-    "open_issues_count": 21,
+    "open_issues_count": 23,
     "forks_count": 130
   },
   {
     "full_name": "wenqiglantz/chatgpt-whisper-spring-boot",
     "stargazers_count": 20,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 12
   },
   {
     "full_name": "openai/openai-cookbook",
-    "stargazers_count": 29437,
-    "open_issues_count": 89,
-    "forks_count": 4204
+    "stargazers_count": 30119,
+    "open_issues_count": 92,
+    "forks_count": 4357
   },
   {
     "full_name": "keyval-dev/odigos",
-    "stargazers_count": 1116,
+    "stargazers_count": 1124,
     "open_issues_count": 40,
     "forks_count": 38
   },
   {
     "full_name": "mysql/mysql-ndb-operator",
-    "stargazers_count": 25,
+    "stargazers_count": 24,
     "open_issues_count": 0,
     "forks_count": 12
   },
@@ -115,9 +121,9 @@
   },
   {
     "full_name": "blueswen/spring-boot-observability",
-    "stargazers_count": 43,
+    "stargazers_count": 44,
     "open_issues_count": 1,
-    "forks_count": 31
+    "forks_count": 32
   },
   {
     "full_name": "bbenz/DevOpsforJavaShops",
@@ -133,9 +139,9 @@
   },
   {
     "full_name": "open-telemetry/opentelemetry-demo",
-    "stargazers_count": 782,
-    "open_issues_count": 26,
-    "forks_count": 365
+    "stargazers_count": 790,
+    "open_issues_count": 25,
+    "forks_count": 372
   },
   {
     "full_name": "wenqiglantz/customerservice-spring-boot-3",
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "k88hudson/git-flight-rules",
-    "stargazers_count": 40948,
-    "open_issues_count": 17,
-    "forks_count": 3186
+    "stargazers_count": 40951,
+    "open_issues_count": 16,
+    "forks_count": 3188
   },
   {
     "full_name": "wenqiglantz/reusable-workflows-modules",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "wolfcw/libfaketime",
-    "stargazers_count": 2283,
+    "stargazers_count": 2285,
     "open_issues_count": 17,
     "forks_count": 286
   },
   {
     "full_name": "cmdr2/stable-diffusion-ui",
-    "stargazers_count": 5778,
-    "open_issues_count": 285,
-    "forks_count": 477
-  },
-  {
-    "full_name": "kubecon-us-2022-argo/control-plane",
-    "stargazers_count": 21,
-    "open_issues_count": 0,
-    "forks_count": 7
+    "stargazers_count": 5870,
+    "open_issues_count": 288,
+    "forks_count": 482
   }
 ]
