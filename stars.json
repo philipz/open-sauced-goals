@@ -1,19 +1,31 @@
 [
   {
+    "full_name": "openblocks-dev/openblocks",
+    "stargazers_count": 4593,
+    "open_issues_count": 112,
+    "forks_count": 195
+  },
+  {
+    "full_name": "SaraVieira/human-blahaj",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "viadee/camunda-modeler-tooltip-plugin",
     "stargazers_count": 47,
-    "open_issues_count": 1,
+    "open_issues_count": 3,
     "forks_count": 10
   },
   {
     "full_name": "linyiLYi/street-fighter-ai",
-    "stargazers_count": 3743,
-    "open_issues_count": 31,
-    "forks_count": 691
+    "stargazers_count": 4245,
+    "open_issues_count": 32,
+    "forks_count": 822
   },
   {
     "full_name": "theseyan/bkg",
-    "stargazers_count": 153,
+    "stargazers_count": 154,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -31,15 +43,15 @@
   },
   {
     "full_name": "camunda-consulting/camunda-7-code-examples",
-    "stargazers_count": 561,
+    "stargazers_count": 562,
     "open_issues_count": 425,
-    "forks_count": 1010
+    "forks_count": 1011
   },
   {
     "full_name": "berndruecker/camunda-7-springboot-amqp-microservice-cloud-example",
     "stargazers_count": 215,
     "open_issues_count": 4,
-    "forks_count": 130
+    "forks_count": 131
   },
   {
     "full_name": "camunda-community-hub/camunda-platform-7-keycloak",
@@ -56,20 +68,20 @@
   {
     "full_name": "bpmn-io/bpmnlint",
     "stargazers_count": 98,
-    "open_issues_count": 14,
+    "open_issues_count": 12,
     "forks_count": 28
   },
   {
     "full_name": "camenduru/stable-diffusion-webui-colab",
-    "stargazers_count": 9484,
-    "open_issues_count": 12,
-    "forks_count": 1550
+    "stargazers_count": 9778,
+    "open_issues_count": 14,
+    "forks_count": 1617
   },
   {
     "full_name": "cardano-foundation/developer-portal",
     "stargazers_count": 307,
-    "open_issues_count": 28,
-    "forks_count": 766
+    "open_issues_count": 29,
+    "forks_count": 769
   },
   {
     "full_name": "NPDeehan/CamundaSagaPatternExample",
@@ -85,20 +97,20 @@
   },
   {
     "full_name": "wenqiglantz/chatgpt-whisper-spring-boot",
-    "stargazers_count": 20,
+    "stargazers_count": 22,
     "open_issues_count": 5,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "openai/openai-cookbook",
-    "stargazers_count": 30119,
-    "open_issues_count": 92,
-    "forks_count": 4357
+    "stargazers_count": 30855,
+    "open_issues_count": 97,
+    "forks_count": 4495
   },
   {
     "full_name": "keyval-dev/odigos",
-    "stargazers_count": 1124,
-    "open_issues_count": 40,
+    "stargazers_count": 1126,
+    "open_issues_count": 41,
     "forks_count": 38
   },
   {
@@ -121,13 +133,13 @@
   },
   {
     "full_name": "blueswen/spring-boot-observability",
-    "stargazers_count": 44,
+    "stargazers_count": 46,
     "open_issues_count": 1,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "bbenz/DevOpsforJavaShops",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 0,
     "forks_count": 28
   },
@@ -139,9 +151,9 @@
   },
   {
     "full_name": "open-telemetry/opentelemetry-demo",
-    "stargazers_count": 790,
-    "open_issues_count": 25,
-    "forks_count": 372
+    "stargazers_count": 792,
+    "open_issues_count": 27,
+    "forks_count": 381
   },
   {
     "full_name": "wenqiglantz/customerservice-spring-boot-3",
@@ -151,7 +163,7 @@
   },
   {
     "full_name": "k88hudson/git-flight-rules",
-    "stargazers_count": 40951,
+    "stargazers_count": 40956,
     "open_issues_count": 16,
     "forks_count": 3188
   },
@@ -159,24 +171,12 @@
     "full_name": "wenqiglantz/reusable-workflows-modules",
     "stargazers_count": 11,
     "open_issues_count": 6,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "wenqiglantz/springboot-infracost-demo",
     "stargazers_count": 4,
     "open_issues_count": 1,
     "forks_count": 1
-  },
-  {
-    "full_name": "wolfcw/libfaketime",
-    "stargazers_count": 2285,
-    "open_issues_count": 17,
-    "forks_count": 286
-  },
-  {
-    "full_name": "cmdr2/stable-diffusion-ui",
-    "stargazers_count": 5870,
-    "open_issues_count": 288,
-    "forks_count": 482
   }
 ]
