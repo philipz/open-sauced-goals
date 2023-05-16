@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "camunda-community-hub/holiday-FEELings-2022",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 11
+  },
+  {
+    "full_name": "Apress/solving-identity-management-in-modern-applications",
+    "stargazers_count": 36,
+    "open_issues_count": 63,
+    "forks_count": 17
+  },
+  {
     "full_name": "FlowSquad/miranum-consulting",
     "stargazers_count": 4,
     "open_issues_count": 1,
@@ -8,7 +20,7 @@
   {
     "full_name": "janus-idp/backstage-showcase",
     "stargazers_count": 15,
-    "open_issues_count": 28,
+    "open_issues_count": 29,
     "forks_count": 23
   },
   {
@@ -19,9 +31,9 @@
   },
   {
     "full_name": "philips-labs/terraform-aws-github-runner",
-    "stargazers_count": 1489,
-    "open_issues_count": 33,
-    "forks_count": 447
+    "stargazers_count": 1498,
+    "open_issues_count": 37,
+    "forks_count": 449
   },
   {
     "full_name": "camunda-community-hub/Camunda-7-Spring-Boot-Tutorial-Lafayette",
@@ -31,9 +43,9 @@
   },
   {
     "full_name": "openblocks-dev/openblocks",
-    "stargazers_count": 4657,
+    "stargazers_count": 4668,
     "open_issues_count": 113,
-    "forks_count": 202
+    "forks_count": 203
   },
   {
     "full_name": "SaraVieira/human-blahaj",
@@ -43,19 +55,19 @@
   },
   {
     "full_name": "viadee/camunda-modeler-tooltip-plugin",
-    "stargazers_count": 47,
-    "open_issues_count": 1,
+    "stargazers_count": 46,
+    "open_issues_count": 4,
     "forks_count": 10
   },
   {
     "full_name": "linyiLYi/street-fighter-ai",
-    "stargazers_count": 4840,
+    "stargazers_count": 4923,
     "open_issues_count": 41,
-    "forks_count": 974
+    "forks_count": 997
   },
   {
     "full_name": "theseyan/bkg",
-    "stargazers_count": 174,
+    "stargazers_count": 177,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -75,7 +87,7 @@
     "full_name": "camunda-consulting/camunda-7-code-examples",
     "stargazers_count": 564,
     "open_issues_count": 425,
-    "forks_count": 1013
+    "forks_count": 1012
   },
   {
     "full_name": "berndruecker/camunda-7-springboot-amqp-microservice-cloud-example",
@@ -86,12 +98,12 @@
   {
     "full_name": "camunda-community-hub/camunda-platform-7-keycloak",
     "stargazers_count": 114,
-    "open_issues_count": 5,
-    "forks_count": 60
+    "open_issues_count": 4,
+    "forks_count": 59
   },
   {
     "full_name": "Azure-Samples/PetSpotR",
-    "stargazers_count": 37,
+    "stargazers_count": 40,
     "open_issues_count": 8,
     "forks_count": 18
   },
@@ -103,15 +115,15 @@
   },
   {
     "full_name": "camenduru/stable-diffusion-webui-colab",
-    "stargazers_count": 10650,
-    "open_issues_count": 16,
-    "forks_count": 1806
+    "stargazers_count": 10825,
+    "open_issues_count": 17,
+    "forks_count": 1851
   },
   {
     "full_name": "cardano-foundation/developer-portal",
     "stargazers_count": 311,
-    "open_issues_count": 33,
-    "forks_count": 781
+    "open_issues_count": 28,
+    "forks_count": 783
   },
   {
     "full_name": "NPDeehan/CamundaSagaPatternExample",
@@ -122,7 +134,7 @@
   {
     "full_name": "jhipster/jhipster-online",
     "stargazers_count": 184,
-    "open_issues_count": 23,
+    "open_issues_count": 22,
     "forks_count": 130
   },
   {
@@ -133,13 +145,13 @@
   },
   {
     "full_name": "openai/openai-cookbook",
-    "stargazers_count": 34603,
-    "open_issues_count": 105,
-    "forks_count": 5152
+    "stargazers_count": 35073,
+    "open_issues_count": 103,
+    "forks_count": 5202
   },
   {
     "full_name": "keyval-dev/odigos",
-    "stargazers_count": 1158,
+    "stargazers_count": 1169,
     "open_issues_count": 31,
     "forks_count": 39
   },
@@ -152,7 +164,7 @@
   {
     "full_name": "wenqiglantz/customer-service-reusable-workflows-example",
     "stargazers_count": 7,
-    "open_issues_count": 7,
+    "open_issues_count": 0,
     "forks_count": 3
   },
   {
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "blueswen/spring-boot-observability",
-    "stargazers_count": 49,
+    "stargazers_count": 50,
     "open_issues_count": 0,
-    "forks_count": 34
-  },
-  {
-    "full_name": "bbenz/DevOpsforJavaShops",
-    "stargazers_count": 48,
-    "open_issues_count": 0,
-    "forks_count": 28
-  },
-  {
-    "full_name": "PacktPublishing/Automating-Workflows-with-GitHub-Actions",
-    "stargazers_count": 39,
-    "open_issues_count": 0,
-    "forks_count": 52
+    "forks_count": 35
   }
 ]
