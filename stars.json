@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "camunda-community-hub/bpmn-driven-testing",
+    "stargazers_count": 22,
+    "open_issues_count": 3,
+    "forks_count": 8
+  },
+  {
+    "full_name": "LinDaiDai/bpmn-chinese-document",
+    "stargazers_count": 1599,
+    "open_issues_count": 7,
+    "forks_count": 303
+  },
+  {
     "full_name": "camunda-community-hub/holiday-FEELings-2022",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -7,7 +19,7 @@
   },
   {
     "full_name": "Apress/solving-identity-management-in-modern-applications",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "open_issues_count": 63,
     "forks_count": 17
   },
@@ -20,8 +32,8 @@
   {
     "full_name": "janus-idp/backstage-showcase",
     "stargazers_count": 15,
-    "open_issues_count": 29,
-    "forks_count": 23
+    "open_issues_count": 30,
+    "forks_count": 25
   },
   {
     "full_name": "philipz/microservices-composition-infrastructure",
@@ -31,9 +43,9 @@
   },
   {
     "full_name": "philips-labs/terraform-aws-github-runner",
-    "stargazers_count": 1498,
-    "open_issues_count": 37,
-    "forks_count": 449
+    "stargazers_count": 1504,
+    "open_issues_count": 38,
+    "forks_count": 452
   },
   {
     "full_name": "camunda-community-hub/Camunda-7-Spring-Boot-Tutorial-Lafayette",
@@ -43,9 +55,9 @@
   },
   {
     "full_name": "openblocks-dev/openblocks",
-    "stargazers_count": 4668,
-    "open_issues_count": 113,
-    "forks_count": 203
+    "stargazers_count": 4677,
+    "open_issues_count": 114,
+    "forks_count": 204
   },
   {
     "full_name": "SaraVieira/human-blahaj",
@@ -61,13 +73,13 @@
   },
   {
     "full_name": "linyiLYi/street-fighter-ai",
-    "stargazers_count": 4923,
+    "stargazers_count": 4990,
     "open_issues_count": 41,
-    "forks_count": 997
+    "forks_count": 1013
   },
   {
     "full_name": "theseyan/bkg",
-    "stargazers_count": 177,
+    "stargazers_count": 178,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -75,19 +87,19 @@
     "full_name": "berndruecker/customer-onboarding-camunda-8-springboot",
     "stargazers_count": 23,
     "open_issues_count": 8,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "embesozzi/keycloak-openfga-workshop",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "camunda-consulting/camunda-7-code-examples",
-    "stargazers_count": 564,
+    "stargazers_count": 565,
     "open_issues_count": 425,
-    "forks_count": 1012
+    "forks_count": 1013
   },
   {
     "full_name": "berndruecker/camunda-7-springboot-amqp-microservice-cloud-example",
@@ -98,7 +110,7 @@
   {
     "full_name": "camunda-community-hub/camunda-platform-7-keycloak",
     "stargazers_count": 114,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 59
   },
   {
@@ -109,21 +121,21 @@
   },
   {
     "full_name": "bpmn-io/bpmnlint",
-    "stargazers_count": 100,
+    "stargazers_count": 101,
     "open_issues_count": 12,
     "forks_count": 29
   },
   {
     "full_name": "camenduru/stable-diffusion-webui-colab",
-    "stargazers_count": 10825,
-    "open_issues_count": 17,
-    "forks_count": 1851
+    "stargazers_count": 10972,
+    "open_issues_count": 18,
+    "forks_count": 1883
   },
   {
     "full_name": "cardano-foundation/developer-portal",
-    "stargazers_count": 311,
-    "open_issues_count": 28,
-    "forks_count": 783
+    "stargazers_count": 314,
+    "open_issues_count": 26,
+    "forks_count": 785
   },
   {
     "full_name": "NPDeehan/CamundaSagaPatternExample",
@@ -139,20 +151,20 @@
   },
   {
     "full_name": "wenqiglantz/chatgpt-whisper-spring-boot",
-    "stargazers_count": 22,
+    "stargazers_count": 24,
     "open_issues_count": 5,
     "forks_count": 14
   },
   {
     "full_name": "openai/openai-cookbook",
-    "stargazers_count": 35073,
-    "open_issues_count": 103,
-    "forks_count": 5202
+    "stargazers_count": 35561,
+    "open_issues_count": 102,
+    "forks_count": 5278
   },
   {
     "full_name": "keyval-dev/odigos",
-    "stargazers_count": 1169,
-    "open_issues_count": 31,
+    "stargazers_count": 1175,
+    "open_issues_count": 28,
     "forks_count": 39
   },
   {
@@ -164,19 +176,7 @@
   {
     "full_name": "wenqiglantz/customer-service-reusable-workflows-example",
     "stargazers_count": 7,
-    "open_issues_count": 0,
+    "open_issues_count": 2,
     "forks_count": 3
-  },
-  {
-    "full_name": "marcingrzejszczak/observability-boot-blog-post",
-    "stargazers_count": 34,
-    "open_issues_count": 0,
-    "forks_count": 15
-  },
-  {
-    "full_name": "blueswen/spring-boot-observability",
-    "stargazers_count": 50,
-    "open_issues_count": 0,
-    "forks_count": 35
   }
 ]
