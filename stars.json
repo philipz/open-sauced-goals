@@ -3,13 +3,13 @@
     "full_name": "camunda-community-hub/bpmn-driven-testing",
     "stargazers_count": 22,
     "open_issues_count": 3,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "LinDaiDai/bpmn-chinese-document",
-    "stargazers_count": 1599,
+    "stargazers_count": 1603,
     "open_issues_count": 7,
-    "forks_count": 303
+    "forks_count": 304
   },
   {
     "full_name": "camunda-community-hub/holiday-FEELings-2022",
@@ -24,7 +24,7 @@
     "forks_count": 17
   },
   {
-    "full_name": "FlowSquad/miranum-consulting",
+    "full_name": "Miragon/miranum-consulting",
     "stargazers_count": 4,
     "open_issues_count": 1,
     "forks_count": 1
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "philips-labs/terraform-aws-github-runner",
-    "stargazers_count": 1504,
-    "open_issues_count": 38,
-    "forks_count": 452
+    "stargazers_count": 1509,
+    "open_issues_count": 40,
+    "forks_count": 453
   },
   {
     "full_name": "camunda-community-hub/Camunda-7-Spring-Boot-Tutorial-Lafayette",
     "stargazers_count": 28,
     "open_issues_count": 1,
-    "forks_count": 15
+    "forks_count": 14
   },
   {
     "full_name": "openblocks-dev/openblocks",
-    "stargazers_count": 4677,
-    "open_issues_count": 114,
-    "forks_count": 204
+    "stargazers_count": 4687,
+    "open_issues_count": 117,
+    "forks_count": 206
   },
   {
     "full_name": "SaraVieira/human-blahaj",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "linyiLYi/street-fighter-ai",
-    "stargazers_count": 4990,
-    "open_issues_count": 41,
-    "forks_count": 1013
+    "stargazers_count": 5109,
+    "open_issues_count": 43,
+    "forks_count": 1048
   },
   {
     "full_name": "theseyan/bkg",
@@ -99,13 +99,13 @@
     "full_name": "camunda-consulting/camunda-7-code-examples",
     "stargazers_count": 565,
     "open_issues_count": 425,
-    "forks_count": 1013
+    "forks_count": 1012
   },
   {
     "full_name": "berndruecker/camunda-7-springboot-amqp-microservice-cloud-example",
     "stargazers_count": 217,
     "open_issues_count": 4,
-    "forks_count": 133
+    "forks_count": 134
   },
   {
     "full_name": "camunda-community-hub/camunda-platform-7-keycloak",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "Azure-Samples/PetSpotR",
-    "stargazers_count": 40,
+    "stargazers_count": 41,
     "open_issues_count": 8,
-    "forks_count": 18
+    "forks_count": 21
   },
   {
     "full_name": "bpmn-io/bpmnlint",
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "camenduru/stable-diffusion-webui-colab",
-    "stargazers_count": 10972,
-    "open_issues_count": 18,
-    "forks_count": 1883
+    "stargazers_count": 11161,
+    "open_issues_count": 20,
+    "forks_count": 1908
   },
   {
     "full_name": "cardano-foundation/developer-portal",
-    "stargazers_count": 314,
+    "stargazers_count": 315,
     "open_issues_count": 26,
-    "forks_count": 785
+    "forks_count": 784
   },
   {
     "full_name": "NPDeehan/CamundaSagaPatternExample",
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "openai/openai-cookbook",
-    "stargazers_count": 35561,
-    "open_issues_count": 102,
-    "forks_count": 5278
+    "stargazers_count": 35946,
+    "open_issues_count": 99,
+    "forks_count": 5347
   },
   {
     "full_name": "keyval-dev/odigos",
-    "stargazers_count": 1175,
-    "open_issues_count": 28,
-    "forks_count": 39
+    "stargazers_count": 1180,
+    "open_issues_count": 40,
+    "forks_count": 40
   },
   {
     "full_name": "mysql/mysql-ndb-operator",
