@@ -1,27 +1,27 @@
 [
   {
     "full_name": "AOT-Technologies/forms-flow-ai",
-    "stargazers_count": 267,
-    "open_issues_count": 20,
+    "stargazers_count": 268,
+    "open_issues_count": 23,
     "forks_count": 168
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 1059,
-    "open_issues_count": 591,
-    "forks_count": 37
+    "stargazers_count": 1131,
+    "open_issues_count": 598,
+    "forks_count": 39
   },
   {
     "full_name": "robusta-dev/krr",
-    "stargazers_count": 622,
-    "open_issues_count": 13,
-    "forks_count": 32
+    "stargazers_count": 664,
+    "open_issues_count": 15,
+    "forks_count": 34
   },
   {
     "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 12800,
+    "stargazers_count": 13832,
     "open_issues_count": 1,
-    "forks_count": 1706
+    "forks_count": 1837
   },
   {
     "full_name": "camunda-community-hub/bpmn-driven-testing",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "LinDaiDai/bpmn-chinese-document",
-    "stargazers_count": 1613,
+    "stargazers_count": 1617,
     "open_issues_count": 7,
     "forks_count": 307
   },
@@ -50,13 +50,13 @@
   {
     "full_name": "Miragon/miranum-consulting",
     "stargazers_count": 5,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "janus-idp/backstage-showcase",
-    "stargazers_count": 19,
-    "open_issues_count": 32,
+    "stargazers_count": 20,
+    "open_issues_count": 31,
     "forks_count": 26
   },
   {
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "philips-labs/terraform-aws-github-runner",
-    "stargazers_count": 1523,
-    "open_issues_count": 38,
-    "forks_count": 456
+    "stargazers_count": 1528,
+    "open_issues_count": 40,
+    "forks_count": 458
   },
   {
     "full_name": "camunda-community-hub/Camunda-7-Spring-Boot-Tutorial-Lafayette",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "openblocks-dev/openblocks",
-    "stargazers_count": 4722,
+    "stargazers_count": 4726,
     "open_issues_count": 118,
-    "forks_count": 214
+    "forks_count": 216
   },
   {
     "full_name": "SaraVieira/human-blahaj",
@@ -92,18 +92,18 @@
   {
     "full_name": "viadee/camunda-modeler-tooltip-plugin",
     "stargazers_count": 46,
-    "open_issues_count": 4,
+    "open_issues_count": 1,
     "forks_count": 10
   },
   {
     "full_name": "linyiLYi/street-fighter-ai",
-    "stargazers_count": 5286,
+    "stargazers_count": 5331,
     "open_issues_count": 45,
-    "forks_count": 1091
+    "forks_count": 1105
   },
   {
     "full_name": "theseyan/bkg",
-    "stargazers_count": 179,
+    "stargazers_count": 180,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "camunda-consulting/camunda-7-code-examples",
-    "stargazers_count": 567,
+    "stargazers_count": 568,
     "open_issues_count": 425,
     "forks_count": 1015
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "camunda-community-hub/camunda-platform-7-keycloak",
-    "stargazers_count": 115,
+    "stargazers_count": 116,
     "open_issues_count": 5,
-    "forks_count": 59
+    "forks_count": 60
   },
   {
     "full_name": "Azure-Samples/PetSpotR",
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "camenduru/stable-diffusion-webui-colab",
-    "stargazers_count": 11449,
-    "open_issues_count": 20,
-    "forks_count": 1970
+    "stargazers_count": 11577,
+    "open_issues_count": 12,
+    "forks_count": 1995
   },
   {
     "full_name": "cardano-foundation/developer-portal",
     "stargazers_count": 318,
-    "open_issues_count": 29,
-    "forks_count": 787
+    "open_issues_count": 28,
+    "forks_count": 790
   },
   {
     "full_name": "NPDeehan/CamundaSagaPatternExample",
