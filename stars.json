@@ -1,9 +1,9 @@
 [
   {
     "full_name": "inventage/keycloak-custom",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 1,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "wenqiglantz/DevSecOpsKB-LlamaIndex-LangChain-OpenAI",
@@ -13,27 +13,27 @@
   },
   {
     "full_name": "AOT-Technologies/forms-flow-ai",
-    "stargazers_count": 269,
+    "stargazers_count": 270,
     "open_issues_count": 17,
     "forks_count": 169
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 1166,
-    "open_issues_count": 617,
+    "stargazers_count": 1173,
+    "open_issues_count": 629,
     "forks_count": 40
   },
   {
     "full_name": "robusta-dev/krr",
-    "stargazers_count": 691,
-    "open_issues_count": 22,
-    "forks_count": 37
+    "stargazers_count": 702,
+    "open_issues_count": 24,
+    "forks_count": 38
   },
   {
     "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 14564,
+    "stargazers_count": 14714,
     "open_issues_count": 1,
-    "forks_count": 2006
+    "forks_count": 2035
   },
   {
     "full_name": "camunda-community-hub/bpmn-driven-testing",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "LinDaiDai/bpmn-chinese-document",
-    "stargazers_count": 1626,
+    "stargazers_count": 1635,
     "open_issues_count": 7,
-    "forks_count": 308
+    "forks_count": 310
   },
   {
     "full_name": "camunda-community-hub/holiday-FEELings-2022",
@@ -55,8 +55,8 @@
   },
   {
     "full_name": "Apress/solving-identity-management-in-modern-applications",
-    "stargazers_count": 37,
-    "open_issues_count": 63,
+    "stargazers_count": 36,
+    "open_issues_count": 65,
     "forks_count": 18
   },
   {
@@ -68,7 +68,7 @@
   {
     "full_name": "janus-idp/backstage-showcase",
     "stargazers_count": 24,
-    "open_issues_count": 42,
+    "open_issues_count": 53,
     "forks_count": 31
   },
   {
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "philips-labs/terraform-aws-github-runner",
-    "stargazers_count": 1543,
-    "open_issues_count": 39,
-    "forks_count": 463
+    "stargazers_count": 1546,
+    "open_issues_count": 33,
+    "forks_count": 462
   },
   {
     "full_name": "camunda-community-hub/Camunda-7-Spring-Boot-Tutorial-Lafayette",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "openblocks-dev/openblocks",
-    "stargazers_count": 4747,
+    "stargazers_count": 4753,
     "open_issues_count": 121,
-    "forks_count": 217
+    "forks_count": 219
   },
   {
     "full_name": "SaraVieira/human-blahaj",
@@ -104,14 +104,14 @@
   {
     "full_name": "viadee/camunda-modeler-tooltip-plugin",
     "stargazers_count": 46,
-    "open_issues_count": 3,
+    "open_issues_count": 1,
     "forks_count": 10
   },
   {
     "full_name": "linyiLYi/street-fighter-ai",
-    "stargazers_count": 5453,
-    "open_issues_count": 46,
-    "forks_count": 1139
+    "stargazers_count": 5473,
+    "open_issues_count": 45,
+    "forks_count": 1145
   },
   {
     "full_name": "theseyan/bkg",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "camunda-consulting/camunda-7-code-examples",
-    "stargazers_count": 572,
+    "stargazers_count": 573,
     "open_issues_count": 425,
     "forks_count": 1012
   },
@@ -147,31 +147,31 @@
     "full_name": "camunda-community-hub/camunda-platform-7-keycloak",
     "stargazers_count": 116,
     "open_issues_count": 4,
-    "forks_count": 60
+    "forks_count": 61
   },
   {
     "full_name": "Azure-Samples/PetSpotR",
-    "stargazers_count": 45,
+    "stargazers_count": 50,
     "open_issues_count": 8,
     "forks_count": 23
   },
   {
     "full_name": "bpmn-io/bpmnlint",
-    "stargazers_count": 103,
+    "stargazers_count": 104,
     "open_issues_count": 11,
     "forks_count": 30
   },
   {
     "full_name": "camenduru/stable-diffusion-webui-colab",
-    "stargazers_count": 11980,
-    "open_issues_count": 16,
-    "forks_count": 2078
+    "stargazers_count": 12126,
+    "open_issues_count": 15,
+    "forks_count": 2095
   },
   {
     "full_name": "cardano-foundation/developer-portal",
-    "stargazers_count": 319,
-    "open_issues_count": 30,
-    "forks_count": 796
+    "stargazers_count": 320,
+    "open_issues_count": 32,
+    "forks_count": 798
   },
   {
     "full_name": "NPDeehan/CamundaSagaPatternExample",
