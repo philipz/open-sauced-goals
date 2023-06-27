@@ -7,7 +7,7 @@
   },
   {
     "full_name": "iximiuz/cdebug",
-    "stargazers_count": 705,
+    "stargazers_count": 707,
     "open_issues_count": 4,
     "forks_count": 27
   },
@@ -26,26 +26,26 @@
   {
     "full_name": "AOT-Technologies/forms-flow-ai",
     "stargazers_count": 272,
-    "open_issues_count": 17,
-    "forks_count": 169
+    "open_issues_count": 16,
+    "forks_count": 170
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 1174,
-    "open_issues_count": 638,
+    "stargazers_count": 1183,
+    "open_issues_count": 649,
     "forks_count": 40
   },
   {
     "full_name": "robusta-dev/krr",
-    "stargazers_count": 808,
-    "open_issues_count": 31,
-    "forks_count": 42
+    "stargazers_count": 826,
+    "open_issues_count": 33,
+    "forks_count": 44
   },
   {
     "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 14931,
+    "stargazers_count": 15043,
     "open_issues_count": 1,
-    "forks_count": 2092
+    "forks_count": 2123
   },
   {
     "full_name": "camunda-community-hub/bpmn-driven-testing",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "LinDaiDai/bpmn-chinese-document",
-    "stargazers_count": 1638,
+    "stargazers_count": 1644,
     "open_issues_count": 7,
     "forks_count": 312
   },
@@ -68,7 +68,7 @@
   {
     "full_name": "Apress/solving-identity-management-in-modern-applications",
     "stargazers_count": 36,
-    "open_issues_count": 65,
+    "open_issues_count": 67,
     "forks_count": 18
   },
   {
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "janus-idp/backstage-showcase",
-    "stargazers_count": 26,
-    "open_issues_count": 46,
-    "forks_count": 34
+    "stargazers_count": 27,
+    "open_issues_count": 43,
+    "forks_count": 37
   },
   {
     "full_name": "philipz/microservices-composition-infrastructure",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "philips-labs/terraform-aws-github-runner",
-    "stargazers_count": 1552,
-    "open_issues_count": 29,
-    "forks_count": 463
+    "stargazers_count": 1554,
+    "open_issues_count": 32,
+    "forks_count": 462
   },
   {
     "full_name": "camunda-community-hub/Camunda-7-Spring-Boot-Tutorial-Lafayette",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "openblocks-dev/openblocks",
-    "stargazers_count": 4775,
+    "stargazers_count": 4791,
     "open_issues_count": 121,
-    "forks_count": 225
+    "forks_count": 227
   },
   {
     "full_name": "SaraVieira/human-blahaj",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "linyiLYi/street-fighter-ai",
-    "stargazers_count": 5520,
+    "stargazers_count": 5532,
     "open_issues_count": 47,
-    "forks_count": 1169
+    "forks_count": 1172
   },
   {
     "full_name": "theseyan/bkg",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "camunda-consulting/camunda-7-code-examples",
-    "stargazers_count": 573,
+    "stargazers_count": 572,
     "open_issues_count": 425,
     "forks_count": 1013
   },
@@ -170,13 +170,13 @@
   {
     "full_name": "bpmn-io/bpmnlint",
     "stargazers_count": 104,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 30
   },
   {
     "full_name": "camenduru/stable-diffusion-webui-colab",
-    "stargazers_count": 12343,
+    "stargazers_count": 12423,
     "open_issues_count": 17,
-    "forks_count": 2142
+    "forks_count": 2157
   }
 ]
