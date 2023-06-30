@@ -1,27 +1,33 @@
 [
   {
+    "full_name": "camunda-community-hub/camunda-7-helm-profiles",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
     "full_name": "slimtoolkit/examples",
-    "stargazers_count": 134,
+    "stargazers_count": 135,
     "open_issues_count": 3,
     "forks_count": 20
   },
   {
     "full_name": "iximiuz/cdebug",
-    "stargazers_count": 707,
+    "stargazers_count": 708,
     "open_issues_count": 4,
     "forks_count": 27
   },
   {
     "full_name": "inventage/keycloak-custom",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 1,
     "forks_count": 10
   },
   {
     "full_name": "wenqiglantz/DevSecOpsKB-LlamaIndex-LangChain-OpenAI",
-    "stargazers_count": 21,
+    "stargazers_count": 27,
     "open_issues_count": 1,
-    "forks_count": 8
+    "forks_count": 10
   },
   {
     "full_name": "AOT-Technologies/forms-flow-ai",
@@ -31,33 +37,33 @@
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 1183,
-    "open_issues_count": 649,
+    "stargazers_count": 1230,
+    "open_issues_count": 653,
     "forks_count": 40
   },
   {
     "full_name": "robusta-dev/krr",
-    "stargazers_count": 826,
+    "stargazers_count": 840,
     "open_issues_count": 33,
-    "forks_count": 44
+    "forks_count": 46
   },
   {
     "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 15043,
+    "stargazers_count": 15164,
     "open_issues_count": 1,
-    "forks_count": 2123
+    "forks_count": 2157
   },
   {
     "full_name": "camunda-community-hub/bpmn-driven-testing",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 3,
     "forks_count": 9
   },
   {
     "full_name": "LinDaiDai/bpmn-chinese-document",
-    "stargazers_count": 1644,
+    "stargazers_count": 1647,
     "open_issues_count": 7,
-    "forks_count": 312
+    "forks_count": 313
   },
   {
     "full_name": "camunda-community-hub/holiday-FEELings-2022",
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "janus-idp/backstage-showcase",
-    "stargazers_count": 27,
-    "open_issues_count": 43,
-    "forks_count": 37
+    "stargazers_count": 28,
+    "open_issues_count": 47,
+    "forks_count": 39
   },
   {
     "full_name": "philipz/microservices-composition-infrastructure",
@@ -91,8 +97,8 @@
   },
   {
     "full_name": "philips-labs/terraform-aws-github-runner",
-    "stargazers_count": 1554,
-    "open_issues_count": 32,
+    "stargazers_count": 1563,
+    "open_issues_count": 31,
     "forks_count": 462
   },
   {
@@ -103,9 +109,9 @@
   },
   {
     "full_name": "openblocks-dev/openblocks",
-    "stargazers_count": 4791,
+    "stargazers_count": 4805,
     "open_issues_count": 121,
-    "forks_count": 227
+    "forks_count": 228
   },
   {
     "full_name": "SaraVieira/human-blahaj",
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "linyiLYi/street-fighter-ai",
-    "stargazers_count": 5532,
+    "stargazers_count": 5560,
     "open_issues_count": 47,
-    "forks_count": 1172
+    "forks_count": 1180
   },
   {
     "full_name": "theseyan/bkg",
@@ -135,7 +141,7 @@
     "full_name": "berndruecker/customer-onboarding-camunda-8-springboot",
     "stargazers_count": 24,
     "open_issues_count": 8,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "embesozzi/keycloak-openfga-workshop",
@@ -145,7 +151,7 @@
   },
   {
     "full_name": "camunda-consulting/camunda-7-code-examples",
-    "stargazers_count": 572,
+    "stargazers_count": 573,
     "open_issues_count": 425,
     "forks_count": 1013
   },
@@ -153,7 +159,7 @@
     "full_name": "berndruecker/camunda-7-springboot-amqp-microservice-cloud-example",
     "stargazers_count": 216,
     "open_issues_count": 4,
-    "forks_count": 134
+    "forks_count": 135
   },
   {
     "full_name": "camunda-community-hub/camunda-platform-7-keycloak",
@@ -170,13 +176,7 @@
   {
     "full_name": "bpmn-io/bpmnlint",
     "stargazers_count": 104,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 30
-  },
-  {
-    "full_name": "camenduru/stable-diffusion-webui-colab",
-    "stargazers_count": 12423,
-    "open_issues_count": 17,
-    "forks_count": 2157
   }
 ]
