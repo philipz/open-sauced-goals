@@ -19,7 +19,7 @@
   },
   {
     "full_name": "iximiuz/cdebug",
-    "stargazers_count": 718,
+    "stargazers_count": 719,
     "open_issues_count": 4,
     "forks_count": 27
   },
@@ -31,33 +31,33 @@
   },
   {
     "full_name": "wenqiglantz/DevSecOpsKB-LlamaIndex-LangChain-OpenAI",
-    "stargazers_count": 51,
+    "stargazers_count": 52,
     "open_issues_count": 1,
     "forks_count": 12
   },
   {
     "full_name": "AOT-Technologies/forms-flow-ai",
     "stargazers_count": 276,
-    "open_issues_count": 20,
+    "open_issues_count": 22,
     "forks_count": 163
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 1264,
-    "open_issues_count": 619,
-    "forks_count": 42
+    "stargazers_count": 1336,
+    "open_issues_count": 626,
+    "forks_count": 43
   },
   {
     "full_name": "robusta-dev/krr",
-    "stargazers_count": 930,
-    "open_issues_count": 28,
-    "forks_count": 50
+    "stargazers_count": 938,
+    "open_issues_count": 26,
+    "forks_count": 53
   },
   {
     "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 15865,
+    "stargazers_count": 15949,
     "open_issues_count": 1,
-    "forks_count": 2291
+    "forks_count": 2317
   },
   {
     "full_name": "camunda-community-hub/bpmn-driven-testing",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "LinDaiDai/bpmn-chinese-document",
-    "stargazers_count": 1668,
+    "stargazers_count": 1669,
     "open_issues_count": 7,
     "forks_count": 315
   },
@@ -80,7 +80,7 @@
   {
     "full_name": "Apress/solving-identity-management-in-modern-applications",
     "stargazers_count": 38,
-    "open_issues_count": 72,
+    "open_issues_count": 75,
     "forks_count": 20
   },
   {
@@ -92,8 +92,8 @@
   {
     "full_name": "janus-idp/backstage-showcase",
     "stargazers_count": 34,
-    "open_issues_count": 48,
-    "forks_count": 43
+    "open_issues_count": 58,
+    "forks_count": 45
   },
   {
     "full_name": "philipz/microservices-composition-infrastructure",
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "philips-labs/terraform-aws-github-runner",
-    "stargazers_count": 1595,
-    "open_issues_count": 37,
+    "stargazers_count": 1605,
+    "open_issues_count": 28,
     "forks_count": 464
   },
   {
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "openblocks-dev/openblocks",
-    "stargazers_count": 4848,
-    "open_issues_count": 122,
+    "stargazers_count": 4860,
+    "open_issues_count": 124,
     "forks_count": 233
   },
   {
     "full_name": "SaraVieira/human-blahaj",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "linyiLYi/street-fighter-ai",
-    "stargazers_count": 5723,
+    "stargazers_count": 5734,
     "open_issues_count": 50,
-    "forks_count": 1221
+    "forks_count": 1220
   },
   {
     "full_name": "theseyan/bkg",
-    "stargazers_count": 189,
+    "stargazers_count": 193,
     "open_issues_count": 2,
     "forks_count": 3
   },
@@ -159,7 +159,7 @@
     "full_name": "camunda-consulting/camunda-7-code-examples",
     "stargazers_count": 574,
     "open_issues_count": 522,
-    "forks_count": 1011
+    "forks_count": 1010
   },
   {
     "full_name": "berndruecker/camunda-7-springboot-amqp-microservice-cloud-example",
@@ -170,12 +170,12 @@
   {
     "full_name": "camunda-community-hub/camunda-platform-7-keycloak",
     "stargazers_count": 116,
-    "open_issues_count": 4,
+    "open_issues_count": 6,
     "forks_count": 61
   },
   {
     "full_name": "Azure-Samples/PetSpotR",
-    "stargazers_count": 51,
+    "stargazers_count": 52,
     "open_issues_count": 8,
     "forks_count": 24
   }
