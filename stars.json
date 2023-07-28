@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "Orange-OpenSource/hurl",
+    "stargazers_count": 5874,
+    "open_issues_count": 92,
+    "forks_count": 178
+  },
+  {
     "full_name": "codesphere-cloud/large-language-example-app",
     "stargazers_count": 2,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
@@ -19,13 +25,13 @@
   },
   {
     "full_name": "iximiuz/cdebug",
-    "stargazers_count": 720,
-    "open_issues_count": 4,
+    "stargazers_count": 719,
+    "open_issues_count": 3,
     "forks_count": 27
   },
   {
     "full_name": "inventage/keycloak-custom",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 1,
     "forks_count": 10
   },
@@ -37,27 +43,27 @@
   },
   {
     "full_name": "AOT-Technologies/forms-flow-ai",
-    "stargazers_count": 276,
-    "open_issues_count": 22,
+    "stargazers_count": 277,
+    "open_issues_count": 20,
     "forks_count": 163
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 1455,
-    "open_issues_count": 641,
-    "forks_count": 45
+    "stargazers_count": 1513,
+    "open_issues_count": 651,
+    "forks_count": 47
   },
   {
     "full_name": "robusta-dev/krr",
-    "stargazers_count": 943,
-    "open_issues_count": 27,
-    "forks_count": 54
+    "stargazers_count": 953,
+    "open_issues_count": 25,
+    "forks_count": 56
   },
   {
     "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 16030,
+    "stargazers_count": 16159,
     "open_issues_count": 1,
-    "forks_count": 2341
+    "forks_count": 2359
   },
   {
     "full_name": "camunda-community-hub/bpmn-driven-testing",
@@ -67,7 +73,7 @@
   },
   {
     "full_name": "LinDaiDai/bpmn-chinese-document",
-    "stargazers_count": 1671,
+    "stargazers_count": 1674,
     "open_issues_count": 7,
     "forks_count": 315
   },
@@ -79,7 +85,7 @@
   },
   {
     "full_name": "Apress/solving-identity-management-in-modern-applications",
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 75,
     "forks_count": 20
   },
@@ -92,7 +98,7 @@
   {
     "full_name": "janus-idp/backstage-showcase",
     "stargazers_count": 34,
-    "open_issues_count": 63,
+    "open_issues_count": 62,
     "forks_count": 46
   },
   {
@@ -103,8 +109,8 @@
   },
   {
     "full_name": "philips-labs/terraform-aws-github-runner",
-    "stargazers_count": 1610,
-    "open_issues_count": 33,
+    "stargazers_count": 1616,
+    "open_issues_count": 30,
     "forks_count": 465
   },
   {
@@ -115,9 +121,9 @@
   },
   {
     "full_name": "openblocks-dev/openblocks",
-    "stargazers_count": 4872,
+    "stargazers_count": 4877,
     "open_issues_count": 124,
-    "forks_count": 235
+    "forks_count": 237
   },
   {
     "full_name": "SaraVieira/human-blahaj",
@@ -127,19 +133,19 @@
   },
   {
     "full_name": "viadee/camunda-modeler-tooltip-plugin",
-    "stargazers_count": 48,
+    "stargazers_count": 47,
     "open_issues_count": 2,
     "forks_count": 10
   },
   {
     "full_name": "linyiLYi/street-fighter-ai",
-    "stargazers_count": 5744,
+    "stargazers_count": 5753,
     "open_issues_count": 50,
-    "forks_count": 1224
+    "forks_count": 1227
   },
   {
     "full_name": "theseyan/bkg",
-    "stargazers_count": 194,
+    "stargazers_count": 195,
     "open_issues_count": 2,
     "forks_count": 3
   },
@@ -153,13 +159,13 @@
     "full_name": "embesozzi/keycloak-openfga-workshop",
     "stargazers_count": 28,
     "open_issues_count": 3,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "camunda-consulting/camunda-7-code-examples",
     "stargazers_count": 575,
     "open_issues_count": 522,
-    "forks_count": 1010
+    "forks_count": 1011
   },
   {
     "full_name": "berndruecker/camunda-7-springboot-amqp-microservice-cloud-example",
@@ -170,13 +176,7 @@
   {
     "full_name": "camunda-community-hub/camunda-platform-7-keycloak",
     "stargazers_count": 116,
-    "open_issues_count": 6,
-    "forks_count": 61
-  },
-  {
-    "full_name": "Azure-Samples/PetSpotR",
-    "stargazers_count": 52,
-    "open_issues_count": 8,
-    "forks_count": 24
+    "open_issues_count": 4,
+    "forks_count": 62
   }
 ]
