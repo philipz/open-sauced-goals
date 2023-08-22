@@ -2,38 +2,38 @@
   {
     "full_name": "bcgov/digital-journeys",
     "stargazers_count": 7,
-    "open_issues_count": 153,
+    "open_issues_count": 151,
     "forks_count": 5
   },
   {
     "full_name": "keycloak/keycloak-quickstarts",
-    "stargazers_count": 1578,
+    "stargazers_count": 1579,
     "open_issues_count": 37,
-    "forks_count": 885
+    "forks_count": 888
   },
   {
     "full_name": "PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition",
-    "stargazers_count": 23,
+    "stargazers_count": 24,
     "open_issues_count": 4,
     "forks_count": 11
   },
   {
     "full_name": "ivangfr/springboot-react-keycloak",
-    "stargazers_count": 283,
-    "open_issues_count": 3,
+    "stargazers_count": 286,
+    "open_issues_count": 2,
     "forks_count": 125
   },
   {
     "full_name": "WasmEdge/WasmEdge",
-    "stargazers_count": 6475,
-    "open_issues_count": 280,
-    "forks_count": 594
+    "stargazers_count": 6498,
+    "open_issues_count": 283,
+    "forks_count": 596
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 6019,
+    "stargazers_count": 6039,
     "open_issues_count": 96,
-    "forks_count": 182
+    "forks_count": 183
   },
   {
     "full_name": "codesphere-cloud/large-language-example-app",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "iximiuz/cdebug",
-    "stargazers_count": 725,
+    "stargazers_count": 727,
     "open_issues_count": 3,
-    "forks_count": 27
+    "forks_count": 26
   },
   {
     "full_name": "inventage/keycloak-custom",
@@ -67,33 +67,33 @@
   },
   {
     "full_name": "wenqiglantz/DevSecOpsKB-LlamaIndex-LangChain-OpenAI",
-    "stargazers_count": 59,
+    "stargazers_count": 60,
     "open_issues_count": 2,
     "forks_count": 14
   },
   {
     "full_name": "AOT-Technologies/forms-flow-ai",
     "stargazers_count": 283,
-    "open_issues_count": 20,
+    "open_issues_count": 24,
     "forks_count": 164
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 1594,
-    "open_issues_count": 665,
-    "forks_count": 53
-  },
-  {
-    "full_name": "robusta-dev/krr",
-    "stargazers_count": 1014,
-    "open_issues_count": 16,
+    "stargazers_count": 1603,
+    "open_issues_count": 660,
     "forks_count": 56
   },
   {
+    "full_name": "robusta-dev/krr",
+    "stargazers_count": 1016,
+    "open_issues_count": 18,
+    "forks_count": 58
+  },
+  {
     "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 17122,
+    "stargazers_count": 17249,
     "open_issues_count": 1,
-    "forks_count": 2511
+    "forks_count": 2530
   },
   {
     "full_name": "camunda-community-hub/bpmn-driven-testing",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "LinDaiDai/bpmn-chinese-document",
-    "stargazers_count": 1696,
+    "stargazers_count": 1699,
     "open_issues_count": 7,
     "forks_count": 320
   },
@@ -128,7 +128,7 @@
   {
     "full_name": "janus-idp/backstage-showcase",
     "stargazers_count": 37,
-    "open_issues_count": 32,
+    "open_issues_count": 35,
     "forks_count": 53
   },
   {
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "philips-labs/terraform-aws-github-runner",
-    "stargazers_count": 1646,
+    "stargazers_count": 1648,
     "open_issues_count": 30,
-    "forks_count": 468
+    "forks_count": 466
   },
   {
     "full_name": "camunda-community-hub/Camunda-7-Spring-Boot-Tutorial-Lafayette",
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 1,
     "forks_count": 15
   },
   {
     "full_name": "openblocks-dev/openblocks",
-    "stargazers_count": 4997,
+    "stargazers_count": 5021,
     "open_issues_count": 123,
-    "forks_count": 250
+    "forks_count": 252
   },
   {
     "full_name": "SaraVieira/human-blahaj",
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "linyiLYi/street-fighter-ai",
-    "stargazers_count": 5785,
+    "stargazers_count": 5791,
     "open_issues_count": 51,
-    "forks_count": 1240
+    "forks_count": 1239
   },
   {
     "full_name": "theseyan/bkg",
-    "stargazers_count": 201,
+    "stargazers_count": 203,
     "open_issues_count": 2,
     "forks_count": 3
   }
