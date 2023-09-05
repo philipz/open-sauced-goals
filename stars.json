@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "dasniko/keycloak-reactjs-demo",
+    "stargazers_count": 394,
+    "open_issues_count": 1,
+    "forks_count": 145
+  },
+  {
     "full_name": "piomin/sample-microservices-protobuf",
     "stargazers_count": 20,
     "open_issues_count": 3,
@@ -13,33 +19,33 @@
   },
   {
     "full_name": "keycloak/keycloak-quickstarts",
-    "stargazers_count": 1589,
+    "stargazers_count": 1593,
     "open_issues_count": 38,
-    "forks_count": 894
+    "forks_count": 897
   },
   {
     "full_name": "PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition",
-    "stargazers_count": 25,
+    "stargazers_count": 27,
     "open_issues_count": 4,
     "forks_count": 11
   },
   {
     "full_name": "ivangfr/springboot-react-keycloak",
-    "stargazers_count": 290,
+    "stargazers_count": 291,
     "open_issues_count": 2,
-    "forks_count": 126
+    "forks_count": 127
   },
   {
     "full_name": "WasmEdge/WasmEdge",
-    "stargazers_count": 6547,
-    "open_issues_count": 284,
-    "forks_count": 596
+    "stargazers_count": 6559,
+    "open_issues_count": 290,
+    "forks_count": 599
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 6084,
-    "open_issues_count": 101,
-    "forks_count": 182
+    "stargazers_count": 6099,
+    "open_issues_count": 104,
+    "forks_count": 184
   },
   {
     "full_name": "codesphere-cloud/large-language-example-app",
@@ -67,7 +73,7 @@
   },
   {
     "full_name": "inventage/keycloak-custom",
-    "stargazers_count": 27,
+    "stargazers_count": 28,
     "open_issues_count": 1,
     "forks_count": 11
   },
@@ -80,26 +86,26 @@
   {
     "full_name": "AOT-Technologies/forms-flow-ai",
     "stargazers_count": 286,
-    "open_issues_count": 25,
+    "open_issues_count": 24,
     "forks_count": 164
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 2218,
-    "open_issues_count": 686,
-    "forks_count": 69
+    "stargazers_count": 2300,
+    "open_issues_count": 683,
+    "forks_count": 77
   },
   {
     "full_name": "robusta-dev/krr",
-    "stargazers_count": 1047,
-    "open_issues_count": 19,
-    "forks_count": 59
+    "stargazers_count": 1055,
+    "open_issues_count": 22,
+    "forks_count": 60
   },
   {
     "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 17538,
+    "stargazers_count": 17682,
     "open_issues_count": 1,
-    "forks_count": 2574
+    "forks_count": 2597
   },
   {
     "full_name": "camunda-community-hub/bpmn-driven-testing",
@@ -109,7 +115,7 @@
   },
   {
     "full_name": "LinDaiDai/bpmn-chinese-document",
-    "stargazers_count": 1704,
+    "stargazers_count": 1707,
     "open_issues_count": 7,
     "forks_count": 320
   },
@@ -128,14 +134,14 @@
   {
     "full_name": "Miragon/miranum-consulting",
     "stargazers_count": 6,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 1
   },
   {
     "full_name": "janus-idp/backstage-showcase",
-    "stargazers_count": 39,
-    "open_issues_count": 45,
-    "forks_count": 56
+    "stargazers_count": 40,
+    "open_issues_count": 50,
+    "forks_count": 59
   },
   {
     "full_name": "philipz/microservices-composition-infrastructure",
@@ -145,8 +151,8 @@
   },
   {
     "full_name": "philips-labs/terraform-aws-github-runner",
-    "stargazers_count": 1660,
-    "open_issues_count": 29,
+    "stargazers_count": 1668,
+    "open_issues_count": 33,
     "forks_count": 471
   },
   {
@@ -157,9 +163,9 @@
   },
   {
     "full_name": "openblocks-dev/openblocks",
-    "stargazers_count": 5057,
+    "stargazers_count": 5060,
     "open_issues_count": 124,
-    "forks_count": 258
+    "forks_count": 259
   },
   {
     "full_name": "SaraVieira/human-blahaj",
@@ -172,11 +178,5 @@
     "stargazers_count": 47,
     "open_issues_count": 3,
     "forks_count": 10
-  },
-  {
-    "full_name": "linyiLYi/street-fighter-ai",
-    "stargazers_count": 5807,
-    "open_issues_count": 51,
-    "forks_count": 1243
   }
 ]
