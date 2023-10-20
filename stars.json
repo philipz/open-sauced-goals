@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "ByteByteGoHq/system-design-101",
+    "stargazers_count": 12070,
+    "open_issues_count": 6,
+    "forks_count": 1229
+  },
+  {
     "full_name": "oktadev/java-microservices-examples",
     "stargazers_count": 495,
     "open_issues_count": 0,
-    "forks_count": 325
+    "forks_count": 327
   },
   {
     "full_name": "pvalderas/microservices-composition-infrastructure",
@@ -13,7 +19,7 @@
   },
   {
     "full_name": "boredabdel/gke-secret-manager",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -25,50 +31,50 @@
   },
   {
     "full_name": "dasniko/keycloak-reactjs-demo",
-    "stargazers_count": 407,
+    "stargazers_count": 408,
     "open_issues_count": 1,
-    "forks_count": 145
+    "forks_count": 147
   },
   {
     "full_name": "piomin/sample-microservices-protobuf",
     "stargazers_count": 24,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 21
   },
   {
     "full_name": "bcgov/digital-journeys",
-    "stargazers_count": 6,
-    "open_issues_count": 182,
+    "stargazers_count": 7,
+    "open_issues_count": 176,
     "forks_count": 5
   },
   {
     "full_name": "keycloak/keycloak-quickstarts",
-    "stargazers_count": 1630,
-    "open_issues_count": 23,
+    "stargazers_count": 1629,
+    "open_issues_count": 24,
     "forks_count": 904
   },
   {
     "full_name": "PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition",
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 6,
     "forks_count": 13
   },
   {
     "full_name": "ivangfr/springboot-react-keycloak",
-    "stargazers_count": 298,
+    "stargazers_count": 301,
     "open_issues_count": 2,
     "forks_count": 129
   },
   {
     "full_name": "WasmEdge/WasmEdge",
-    "stargazers_count": 6790,
-    "open_issues_count": 291,
+    "stargazers_count": 6805,
+    "open_issues_count": 290,
     "forks_count": 612
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 6844,
-    "open_issues_count": 115,
+    "stargazers_count": 6873,
+    "open_issues_count": 111,
     "forks_count": 207
   },
   {
@@ -91,21 +97,21 @@
   },
   {
     "full_name": "iximiuz/cdebug",
-    "stargazers_count": 748,
+    "stargazers_count": 750,
     "open_issues_count": 4,
     "forks_count": 26
   },
   {
     "full_name": "inventage/keycloak-custom",
     "stargazers_count": 31,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 12
   },
   {
     "full_name": "wenqiglantz/DevSecOpsKB-LlamaIndex-LangChain-OpenAI",
     "stargazers_count": 75,
     "open_issues_count": 1,
-    "forks_count": 19
+    "forks_count": 20
   },
   {
     "full_name": "AOT-Technologies/forms-flow-ai",
@@ -115,31 +121,31 @@
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 2558,
-    "open_issues_count": 703,
-    "forks_count": 87
+    "stargazers_count": 2568,
+    "open_issues_count": 701,
+    "forks_count": 89
   },
   {
     "full_name": "robusta-dev/krr",
-    "stargazers_count": 1291,
+    "stargazers_count": 1300,
     "open_issues_count": 28,
     "forks_count": 70
   },
   {
     "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 18608,
+    "stargazers_count": 18643,
     "open_issues_count": 1,
-    "forks_count": 2776
+    "forks_count": 2786
   },
   {
     "full_name": "camunda-community-hub/bpmn-driven-testing",
     "stargazers_count": 26,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 9
   },
   {
     "full_name": "LinDaiDai/bpmn-chinese-document",
-    "stargazers_count": 1733,
+    "stargazers_count": 1736,
     "open_issues_count": 7,
     "forks_count": 328
   },
@@ -163,8 +169,8 @@
   },
   {
     "full_name": "janus-idp/backstage-showcase",
-    "stargazers_count": 46,
-    "open_issues_count": 80,
+    "stargazers_count": 47,
+    "open_issues_count": 83,
     "forks_count": 70
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "philips-labs/terraform-aws-github-runner",
-    "stargazers_count": 1744,
-    "open_issues_count": 50,
-    "forks_count": 494
   }
 ]
