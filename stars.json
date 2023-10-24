@@ -1,15 +1,27 @@
 [
   {
+    "full_name": "camunda-community-hub/camunda-7-community-helm",
+    "stargazers_count": 35,
+    "open_issues_count": 5,
+    "forks_count": 37
+  },
+  {
+    "full_name": "cathayddt/bdk",
+    "stargazers_count": 66,
+    "open_issues_count": 13,
+    "forks_count": 20
+  },
+  {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 12070,
-    "open_issues_count": 6,
-    "forks_count": 1229
+    "stargazers_count": 31032,
+    "open_issues_count": 18,
+    "forks_count": 2764
   },
   {
     "full_name": "oktadev/java-microservices-examples",
     "stargazers_count": 495,
     "open_issues_count": 0,
-    "forks_count": 327
+    "forks_count": 328
   },
   {
     "full_name": "pvalderas/microservices-composition-infrastructure",
@@ -31,51 +43,51 @@
   },
   {
     "full_name": "dasniko/keycloak-reactjs-demo",
-    "stargazers_count": 408,
+    "stargazers_count": 407,
     "open_issues_count": 1,
     "forks_count": 147
   },
   {
     "full_name": "piomin/sample-microservices-protobuf",
     "stargazers_count": 24,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 21
   },
   {
     "full_name": "bcgov/digital-journeys",
     "stargazers_count": 7,
-    "open_issues_count": 176,
+    "open_issues_count": 175,
     "forks_count": 5
   },
   {
     "full_name": "keycloak/keycloak-quickstarts",
-    "stargazers_count": 1629,
+    "stargazers_count": 1634,
     "open_issues_count": 24,
-    "forks_count": 904
+    "forks_count": 905
   },
   {
     "full_name": "PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition",
-    "stargazers_count": 31,
+    "stargazers_count": 32,
     "open_issues_count": 6,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "ivangfr/springboot-react-keycloak",
-    "stargazers_count": 301,
+    "stargazers_count": 302,
     "open_issues_count": 2,
     "forks_count": 129
   },
   {
     "full_name": "WasmEdge/WasmEdge",
-    "stargazers_count": 6805,
-    "open_issues_count": 290,
-    "forks_count": 612
+    "stargazers_count": 6816,
+    "open_issues_count": 291,
+    "forks_count": 613
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 6873,
-    "open_issues_count": 111,
-    "forks_count": 207
+    "stargazers_count": 6943,
+    "open_issues_count": 108,
+    "forks_count": 210
   },
   {
     "full_name": "codesphere-cloud/large-language-example-app",
@@ -92,12 +104,12 @@
   {
     "full_name": "slimtoolkit/examples",
     "stargazers_count": 139,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 19
   },
   {
     "full_name": "iximiuz/cdebug",
-    "stargazers_count": 750,
+    "stargazers_count": 751,
     "open_issues_count": 4,
     "forks_count": 26
   },
@@ -109,7 +121,7 @@
   },
   {
     "full_name": "wenqiglantz/DevSecOpsKB-LlamaIndex-LangChain-OpenAI",
-    "stargazers_count": 75,
+    "stargazers_count": 77,
     "open_issues_count": 1,
     "forks_count": 20
   },
@@ -122,20 +134,20 @@
   {
     "full_name": "winglang/wing",
     "stargazers_count": 2568,
-    "open_issues_count": 701,
-    "forks_count": 89
+    "open_issues_count": 692,
+    "forks_count": 94
   },
   {
     "full_name": "robusta-dev/krr",
-    "stargazers_count": 1300,
-    "open_issues_count": 28,
+    "stargazers_count": 1335,
+    "open_issues_count": 24,
     "forks_count": 70
   },
   {
     "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 18643,
+    "stargazers_count": 18678,
     "open_issues_count": 1,
-    "forks_count": 2786
+    "forks_count": 2790
   },
   {
     "full_name": "camunda-community-hub/bpmn-driven-testing",
@@ -145,7 +157,7 @@
   },
   {
     "full_name": "LinDaiDai/bpmn-chinese-document",
-    "stargazers_count": 1736,
+    "stargazers_count": 1740,
     "open_issues_count": 7,
     "forks_count": 328
   },
@@ -164,19 +176,7 @@
   {
     "full_name": "Miragon/miranum-consulting",
     "stargazers_count": 7,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 2
-  },
-  {
-    "full_name": "janus-idp/backstage-showcase",
-    "stargazers_count": 47,
-    "open_issues_count": 83,
-    "forks_count": 70
-  },
-  {
-    "full_name": "philipz/microservices-composition-infrastructure",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
