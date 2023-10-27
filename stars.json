@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "GoogleCloudPlatform/opentelemetry-cloud-run",
+    "stargazers_count": 47,
+    "open_issues_count": 1,
+    "forks_count": 7
+  },
+  {
     "full_name": "camunda-community-hub/camunda-7-community-helm",
     "stargazers_count": 35,
     "open_issues_count": 5,
@@ -7,21 +13,21 @@
   },
   {
     "full_name": "cathayddt/bdk",
-    "stargazers_count": 66,
+    "stargazers_count": 67,
     "open_issues_count": 13,
     "forks_count": 20
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 31032,
-    "open_issues_count": 18,
-    "forks_count": 2764
+    "stargazers_count": 37813,
+    "open_issues_count": 19,
+    "forks_count": 3437
   },
   {
     "full_name": "oktadev/java-microservices-examples",
     "stargazers_count": 495,
     "open_issues_count": 0,
-    "forks_count": 328
+    "forks_count": 329
   },
   {
     "full_name": "pvalderas/microservices-composition-infrastructure",
@@ -33,7 +39,7 @@
     "full_name": "boredabdel/gke-secret-manager",
     "stargazers_count": 26,
     "open_issues_count": 0,
-    "forks_count": 5
+    "forks_count": 7
   },
   {
     "full_name": "SimonVerhoeven/archunit-demo",
@@ -45,7 +51,7 @@
     "full_name": "dasniko/keycloak-reactjs-demo",
     "stargazers_count": 407,
     "open_issues_count": 1,
-    "forks_count": 147
+    "forks_count": 148
   },
   {
     "full_name": "piomin/sample-microservices-protobuf",
@@ -56,38 +62,38 @@
   {
     "full_name": "bcgov/digital-journeys",
     "stargazers_count": 7,
-    "open_issues_count": 175,
+    "open_issues_count": 182,
     "forks_count": 5
   },
   {
     "full_name": "keycloak/keycloak-quickstarts",
-    "stargazers_count": 1634,
+    "stargazers_count": 1639,
     "open_issues_count": 24,
-    "forks_count": 905
+    "forks_count": 906
   },
   {
     "full_name": "PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 6,
     "forks_count": 14
   },
   {
     "full_name": "ivangfr/springboot-react-keycloak",
-    "stargazers_count": 302,
+    "stargazers_count": 306,
     "open_issues_count": 2,
     "forks_count": 129
   },
   {
     "full_name": "WasmEdge/WasmEdge",
-    "stargazers_count": 6816,
-    "open_issues_count": 291,
-    "forks_count": 613
+    "stargazers_count": 6833,
+    "open_issues_count": 307,
+    "forks_count": 620
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 6943,
-    "open_issues_count": 108,
-    "forks_count": 210
+    "stargazers_count": 6961,
+    "open_issues_count": 114,
+    "forks_count": 211
   },
   {
     "full_name": "codesphere-cloud/large-language-example-app",
@@ -104,13 +110,13 @@
   {
     "full_name": "slimtoolkit/examples",
     "stargazers_count": 139,
-    "open_issues_count": 4,
+    "open_issues_count": 3,
     "forks_count": 19
   },
   {
     "full_name": "iximiuz/cdebug",
-    "stargazers_count": 751,
-    "open_issues_count": 4,
+    "stargazers_count": 752,
+    "open_issues_count": 5,
     "forks_count": 26
   },
   {
@@ -127,37 +133,37 @@
   },
   {
     "full_name": "AOT-Technologies/forms-flow-ai",
-    "stargazers_count": 294,
+    "stargazers_count": 295,
     "open_issues_count": 28,
     "forks_count": 167
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 2568,
-    "open_issues_count": 692,
-    "forks_count": 94
+    "stargazers_count": 2577,
+    "open_issues_count": 690,
+    "forks_count": 95
   },
   {
     "full_name": "robusta-dev/krr",
-    "stargazers_count": 1335,
+    "stargazers_count": 1343,
     "open_issues_count": 24,
     "forks_count": 70
   },
   {
     "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 18678,
+    "stargazers_count": 18712,
     "open_issues_count": 1,
-    "forks_count": 2790
+    "forks_count": 2800
   },
   {
     "full_name": "camunda-community-hub/bpmn-driven-testing",
     "stargazers_count": 26,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 9
   },
   {
     "full_name": "LinDaiDai/bpmn-chinese-document",
-    "stargazers_count": 1740,
+    "stargazers_count": 1746,
     "open_issues_count": 7,
     "forks_count": 328
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 42,
     "open_issues_count": 75,
     "forks_count": 19
-  },
-  {
-    "full_name": "Miragon/miranum-consulting",
-    "stargazers_count": 7,
-    "open_issues_count": 7,
-    "forks_count": 2
   }
 ]
