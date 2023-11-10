@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "yousseefben/kafka-stream-fraud-java",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "GoogleCloudPlatform/opentelemetry-cloud-run",
     "stargazers_count": 49,
     "open_issues_count": 2,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "camunda-community-hub/camunda-7-community-helm",
@@ -19,15 +25,15 @@
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 43766,
-    "open_issues_count": 20,
-    "forks_count": 4197
+    "stargazers_count": 44470,
+    "open_issues_count": 23,
+    "forks_count": 4297
   },
   {
     "full_name": "oktadev/java-microservices-examples",
-    "stargazers_count": 496,
+    "stargazers_count": 497,
     "open_issues_count": 0,
-    "forks_count": 333
+    "forks_count": 337
   },
   {
     "full_name": "pvalderas/microservices-composition-infrastructure",
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "dasniko/keycloak-reactjs-demo",
-    "stargazers_count": 409,
+    "stargazers_count": 411,
     "open_issues_count": 1,
     "forks_count": 149
   },
@@ -57,7 +63,7 @@
     "full_name": "piomin/sample-microservices-protobuf",
     "stargazers_count": 27,
     "open_issues_count": 5,
-    "forks_count": 21
+    "forks_count": 22
   },
   {
     "full_name": "bcgov/digital-journeys",
@@ -67,31 +73,31 @@
   },
   {
     "full_name": "keycloak/keycloak-quickstarts",
-    "stargazers_count": 1646,
+    "stargazers_count": 1647,
     "open_issues_count": 27,
-    "forks_count": 909
+    "forks_count": 910
   },
   {
     "full_name": "PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 6,
     "forks_count": 15
   },
   {
     "full_name": "ivangfr/springboot-react-keycloak",
-    "stargazers_count": 307,
+    "stargazers_count": 309,
     "open_issues_count": 2,
     "forks_count": 130
   },
   {
     "full_name": "WasmEdge/WasmEdge",
-    "stargazers_count": 6892,
-    "open_issues_count": 271,
-    "forks_count": 624
+    "stargazers_count": 6909,
+    "open_issues_count": 274,
+    "forks_count": 625
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 7067,
+    "stargazers_count": 7127,
     "open_issues_count": 112,
     "forks_count": 216
   },
@@ -115,7 +121,7 @@
   },
   {
     "full_name": "iximiuz/cdebug",
-    "stargazers_count": 753,
+    "stargazers_count": 756,
     "open_issues_count": 6,
     "forks_count": 26
   },
@@ -134,26 +140,26 @@
   {
     "full_name": "AOT-Technologies/forms-flow-ai",
     "stargazers_count": 296,
-    "open_issues_count": 26,
+    "open_issues_count": 29,
     "forks_count": 167
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 2595,
-    "open_issues_count": 704,
-    "forks_count": 99
+    "stargazers_count": 2616,
+    "open_issues_count": 720,
+    "forks_count": 104
   },
   {
     "full_name": "robusta-dev/krr",
-    "stargazers_count": 1379,
-    "open_issues_count": 29,
-    "forks_count": 71
+    "stargazers_count": 1420,
+    "open_issues_count": 31,
+    "forks_count": 74
   },
   {
     "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 18822,
+    "stargazers_count": 18857,
     "open_issues_count": 1,
-    "forks_count": 2821
+    "forks_count": 2832
   },
   {
     "full_name": "camunda-community-hub/bpmn-driven-testing",
@@ -163,7 +169,7 @@
   },
   {
     "full_name": "LinDaiDai/bpmn-chinese-document",
-    "stargazers_count": 1757,
+    "stargazers_count": 1758,
     "open_issues_count": 7,
     "forks_count": 330
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 11
-  },
-  {
-    "full_name": "Apress/solving-identity-management-in-modern-applications",
-    "stargazers_count": 42,
-    "open_issues_count": 75,
-    "forks_count": 19
   }
 ]
