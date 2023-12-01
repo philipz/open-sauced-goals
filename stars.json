@@ -1,9 +1,9 @@
 [
   {
     "full_name": "docker/genai-stack",
-    "stargazers_count": 1621,
-    "open_issues_count": 29,
-    "forks_count": 284
+    "stargazers_count": 1652,
+    "open_issues_count": 32,
+    "forks_count": 292
   },
   {
     "full_name": "yousseefben/kafka-stream-fraud-java",
@@ -19,21 +19,21 @@
   },
   {
     "full_name": "camunda-community-hub/camunda-7-community-helm",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "open_issues_count": 11,
     "forks_count": 37
   },
   {
     "full_name": "cathayddt/bdk",
     "stargazers_count": 68,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 20
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 46932,
-    "open_issues_count": 28,
-    "forks_count": 4597
+    "stargazers_count": 47151,
+    "open_issues_count": 27,
+    "forks_count": 4625
   },
   {
     "full_name": "oktadev/java-microservices-examples",
@@ -61,51 +61,51 @@
   },
   {
     "full_name": "dasniko/keycloak-reactjs-demo",
-    "stargazers_count": 414,
+    "stargazers_count": 415,
     "open_issues_count": 1,
-    "forks_count": 150
+    "forks_count": 151
   },
   {
     "full_name": "piomin/sample-microservices-protobuf",
     "stargazers_count": 27,
     "open_issues_count": 5,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "bcgov/digital-journeys",
     "stargazers_count": 7,
-    "open_issues_count": 161,
-    "forks_count": 5
+    "open_issues_count": 168,
+    "forks_count": 6
   },
   {
     "full_name": "keycloak/keycloak-quickstarts",
-    "stargazers_count": 1662,
+    "stargazers_count": 1668,
     "open_issues_count": 30,
-    "forks_count": 912
+    "forks_count": 914
   },
   {
     "full_name": "PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "open_issues_count": 6,
-    "forks_count": 15
+    "forks_count": 16
   },
   {
     "full_name": "ivangfr/springboot-react-keycloak",
-    "stargazers_count": 315,
+    "stargazers_count": 317,
     "open_issues_count": 2,
     "forks_count": 130
   },
   {
     "full_name": "WasmEdge/WasmEdge",
-    "stargazers_count": 7127,
-    "open_issues_count": 280,
-    "forks_count": 636
+    "stargazers_count": 7167,
+    "open_issues_count": 283,
+    "forks_count": 637
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 7246,
-    "open_issues_count": 123,
-    "forks_count": 218
+    "stargazers_count": 7262,
+    "open_issues_count": 125,
+    "forks_count": 219
   },
   {
     "full_name": "codesphere-cloud/large-language-example-app",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "iximiuz/cdebug",
-    "stargazers_count": 761,
+    "stargazers_count": 762,
     "open_issues_count": 6,
-    "forks_count": 26
+    "forks_count": 25
   },
   {
     "full_name": "inventage/keycloak-custom",
@@ -139,44 +139,44 @@
   },
   {
     "full_name": "wenqiglantz/DevSecOpsKB-LlamaIndex-LangChain-OpenAI",
-    "stargazers_count": 79,
+    "stargazers_count": 80,
     "open_issues_count": 1,
     "forks_count": 20
   },
   {
     "full_name": "AOT-Technologies/forms-flow-ai",
-    "stargazers_count": 298,
-    "open_issues_count": 26,
-    "forks_count": 168
+    "stargazers_count": 299,
+    "open_issues_count": 30,
+    "forks_count": 170
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 2658,
-    "open_issues_count": 756,
+    "stargazers_count": 2668,
+    "open_issues_count": 767,
     "forks_count": 109
   },
   {
     "full_name": "robusta-dev/krr",
-    "stargazers_count": 1509,
+    "stargazers_count": 1539,
     "open_issues_count": 34,
-    "forks_count": 79
+    "forks_count": 78
   },
   {
     "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 19030,
+    "stargazers_count": 19088,
     "open_issues_count": 1,
-    "forks_count": 2899
+    "forks_count": 2917
   },
   {
     "full_name": "camunda-community-hub/bpmn-driven-testing",
     "stargazers_count": 26,
-    "open_issues_count": 10,
+    "open_issues_count": 12,
     "forks_count": 9
   },
   {
     "full_name": "LinDaiDai/bpmn-chinese-document",
-    "stargazers_count": 1768,
+    "stargazers_count": 1772,
     "open_issues_count": 7,
-    "forks_count": 332
+    "forks_count": 333
   }
 ]
