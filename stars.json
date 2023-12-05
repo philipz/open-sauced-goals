@@ -1,9 +1,9 @@
 [
   {
     "full_name": "docker/genai-stack",
-    "stargazers_count": 1652,
-    "open_issues_count": 32,
-    "forks_count": 292
+    "stargazers_count": 1675,
+    "open_issues_count": 30,
+    "forks_count": 303
   },
   {
     "full_name": "yousseefben/kafka-stream-fraud-java",
@@ -20,20 +20,20 @@
   {
     "full_name": "camunda-community-hub/camunda-7-community-helm",
     "stargazers_count": 37,
-    "open_issues_count": 11,
+    "open_issues_count": 6,
     "forks_count": 37
   },
   {
     "full_name": "cathayddt/bdk",
     "stargazers_count": 68,
-    "open_issues_count": 14,
+    "open_issues_count": 13,
     "forks_count": 20
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 47151,
+    "stargazers_count": 47347,
     "open_issues_count": 27,
-    "forks_count": 4625
+    "forks_count": 4656
   },
   {
     "full_name": "oktadev/java-microservices-examples",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "boredabdel/gke-secret-manager",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "dasniko/keycloak-reactjs-demo",
-    "stargazers_count": 415,
+    "stargazers_count": 417,
     "open_issues_count": 1,
     "forks_count": 151
   },
@@ -74,38 +74,38 @@
   {
     "full_name": "bcgov/digital-journeys",
     "stargazers_count": 7,
-    "open_issues_count": 168,
+    "open_issues_count": 165,
     "forks_count": 6
   },
   {
     "full_name": "keycloak/keycloak-quickstarts",
-    "stargazers_count": 1668,
+    "stargazers_count": 1672,
     "open_issues_count": 30,
-    "forks_count": 914
+    "forks_count": 915
   },
   {
     "full_name": "PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition",
-    "stargazers_count": 37,
+    "stargazers_count": 38,
     "open_issues_count": 6,
     "forks_count": 16
   },
   {
     "full_name": "ivangfr/springboot-react-keycloak",
-    "stargazers_count": 317,
+    "stargazers_count": 319,
     "open_issues_count": 2,
     "forks_count": 130
   },
   {
     "full_name": "WasmEdge/WasmEdge",
-    "stargazers_count": 7167,
-    "open_issues_count": 283,
+    "stargazers_count": 7189,
+    "open_issues_count": 289,
     "forks_count": 637
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 7262,
-    "open_issues_count": 125,
-    "forks_count": 219
+    "stargazers_count": 7340,
+    "open_issues_count": 123,
+    "forks_count": 223
   },
   {
     "full_name": "codesphere-cloud/large-language-example-app",
@@ -116,7 +116,7 @@
   {
     "full_name": "camunda-community-hub/camunda-7-helm-profiles",
     "stargazers_count": 1,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "iximiuz/cdebug",
-    "stargazers_count": 762,
+    "stargazers_count": 763,
     "open_issues_count": 6,
     "forks_count": 25
   },
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "AOT-Technologies/forms-flow-ai",
-    "stargazers_count": 299,
-    "open_issues_count": 30,
+    "stargazers_count": 300,
+    "open_issues_count": 29,
     "forks_count": 170
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 2668,
-    "open_issues_count": 767,
+    "stargazers_count": 2677,
+    "open_issues_count": 779,
     "forks_count": 109
   },
   {
     "full_name": "robusta-dev/krr",
-    "stargazers_count": 1539,
+    "stargazers_count": 1551,
     "open_issues_count": 34,
     "forks_count": 78
   },
   {
     "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 19088,
+    "stargazers_count": 19156,
     "open_issues_count": 1,
-    "forks_count": 2917
+    "forks_count": 2934
   },
   {
     "full_name": "camunda-community-hub/bpmn-driven-testing",
     "stargazers_count": 26,
-    "open_issues_count": 12,
+    "open_issues_count": 3,
     "forks_count": 9
   },
   {
     "full_name": "LinDaiDai/bpmn-chinese-document",
-    "stargazers_count": 1772,
+    "stargazers_count": 1777,
     "open_issues_count": 7,
-    "forks_count": 333
+    "forks_count": 334
   }
 ]
