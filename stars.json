@@ -1,9 +1,9 @@
 [
   {
     "full_name": "docker/genai-stack",
-    "stargazers_count": 1714,
-    "open_issues_count": 33,
-    "forks_count": 308
+    "stargazers_count": 1740,
+    "open_issues_count": 34,
+    "forks_count": 316
   },
   {
     "full_name": "yousseefben/kafka-stream-fraud-java",
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "GoogleCloudPlatform/opentelemetry-cloud-run",
-    "stargazers_count": 53,
+    "stargazers_count": 56,
     "open_issues_count": 3,
     "forks_count": 9
   },
@@ -31,13 +31,13 @@
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 47501,
+    "stargazers_count": 48569,
     "open_issues_count": 27,
-    "forks_count": 4683
+    "forks_count": 4819
   },
   {
     "full_name": "oktadev/java-microservices-examples",
-    "stargazers_count": 501,
+    "stargazers_count": 502,
     "open_issues_count": 0,
     "forks_count": 340
   },
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "dasniko/keycloak-reactjs-demo",
-    "stargazers_count": 417,
+    "stargazers_count": 418,
     "open_issues_count": 1,
-    "forks_count": 151
+    "forks_count": 150
   },
   {
     "full_name": "piomin/sample-microservices-protobuf",
@@ -74,38 +74,38 @@
   {
     "full_name": "bcgov/digital-journeys",
     "stargazers_count": 7,
-    "open_issues_count": 170,
+    "open_issues_count": 169,
     "forks_count": 6
   },
   {
     "full_name": "keycloak/keycloak-quickstarts",
     "stargazers_count": 1675,
-    "open_issues_count": 31,
+    "open_issues_count": 32,
     "forks_count": 915
   },
   {
     "full_name": "PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition",
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 6,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "ivangfr/springboot-react-keycloak",
-    "stargazers_count": 320,
+    "stargazers_count": 321,
     "open_issues_count": 3,
     "forks_count": 130
   },
   {
     "full_name": "WasmEdge/WasmEdge",
-    "stargazers_count": 7218,
-    "open_issues_count": 290,
-    "forks_count": 644
+    "stargazers_count": 7236,
+    "open_issues_count": 294,
+    "forks_count": 646
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 7375,
-    "open_issues_count": 126,
-    "forks_count": 223
+    "stargazers_count": 7393,
+    "open_issues_count": 124,
+    "forks_count": 224
   },
   {
     "full_name": "codesphere-cloud/large-language-example-app",
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "iximiuz/cdebug",
-    "stargazers_count": 764,
+    "stargazers_count": 765,
     "open_issues_count": 6,
     "forks_count": 25
   },
   {
     "full_name": "inventage/keycloak-custom",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 2,
-    "forks_count": 14
+    "forks_count": 13
   },
   {
     "full_name": "wenqiglantz/DevSecOpsKB-LlamaIndex-LangChain-OpenAI",
@@ -145,27 +145,27 @@
   },
   {
     "full_name": "AOT-Technologies/forms-flow-ai",
-    "stargazers_count": 300,
-    "open_issues_count": 29,
+    "stargazers_count": 302,
+    "open_issues_count": 31,
     "forks_count": 170
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 2913,
-    "open_issues_count": 782,
-    "forks_count": 110
+    "stargazers_count": 2976,
+    "open_issues_count": 787,
+    "forks_count": 112
   },
   {
     "full_name": "robusta-dev/krr",
-    "stargazers_count": 1559,
-    "open_issues_count": 35,
-    "forks_count": 81
+    "stargazers_count": 1566,
+    "open_issues_count": 37,
+    "forks_count": 82
   },
   {
     "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 19209,
+    "stargazers_count": 19242,
     "open_issues_count": 1,
-    "forks_count": 2951
+    "forks_count": 2975
   },
   {
     "full_name": "camunda-community-hub/bpmn-driven-testing",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "LinDaiDai/bpmn-chinese-document",
-    "stargazers_count": 1779,
+    "stargazers_count": 1780,
     "open_issues_count": 7,
     "forks_count": 335
   }
