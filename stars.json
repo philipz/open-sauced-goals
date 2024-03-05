@@ -1,9 +1,9 @@
 [
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 3723,
-    "open_issues_count": 170,
-    "forks_count": 674
+    "stargazers_count": 3740,
+    "open_issues_count": 169,
+    "forks_count": 675
   },
   {
     "full_name": "agelenler/food-ordering-system",
@@ -13,21 +13,21 @@
   },
   {
     "full_name": "jhipster/jhipster-lite",
-    "stargazers_count": 406,
-    "open_issues_count": 71,
-    "forks_count": 191
+    "stargazers_count": 407,
+    "open_issues_count": 76,
+    "forks_count": 192
   },
   {
     "full_name": "embesozzi/keycloak-workshop-stepup-mfa-biometrics",
-    "stargazers_count": 23,
+    "stargazers_count": 24,
     "open_issues_count": 0,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "TeamTopologies/Team-API-template",
     "stargazers_count": 616,
     "open_issues_count": 4,
-    "forks_count": 79
+    "forks_count": 80
   },
   {
     "full_name": "xsreality/spring-boot-tracing-demo",
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
-    "stargazers_count": 25027,
+    "stargazers_count": 25157,
     "open_issues_count": 11,
-    "forks_count": 2839
+    "forks_count": 2862
   },
   {
     "full_name": "EventuallyConsistentDDD/design-guidelines",
-    "stargazers_count": 92,
+    "stargazers_count": 93,
     "open_issues_count": 0,
     "forks_count": 9
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "docker/genai-stack",
-    "stargazers_count": 2435,
-    "open_issues_count": 43,
-    "forks_count": 469
+    "stargazers_count": 2464,
+    "open_issues_count": 45,
+    "forks_count": 478
   },
   {
     "full_name": "yousseefben/kafka-stream-fraud-java",
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 55152,
-    "open_issues_count": 36,
-    "forks_count": 5533
+    "stargazers_count": 55319,
+    "open_issues_count": 35,
+    "forks_count": 5552
   },
   {
     "full_name": "oktadev/java-microservices-examples",
-    "stargazers_count": 517,
+    "stargazers_count": 519,
     "open_issues_count": 0,
     "forks_count": 344
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "dasniko/keycloak-reactjs-demo",
-    "stargazers_count": 432,
+    "stargazers_count": 435,
     "open_issues_count": 1,
     "forks_count": 156
   },
@@ -140,14 +140,14 @@
   {
     "full_name": "bcgov/digital-journeys",
     "stargazers_count": 8,
-    "open_issues_count": 164,
+    "open_issues_count": 163,
     "forks_count": 7
   },
   {
     "full_name": "keycloak/keycloak-quickstarts",
-    "stargazers_count": 1745,
-    "open_issues_count": 28,
-    "forks_count": 931
+    "stargazers_count": 1748,
+    "open_issues_count": 27,
+    "forks_count": 932
   },
   {
     "full_name": "PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition",
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "WasmEdge/WasmEdge",
-    "stargazers_count": 7692,
-    "open_issues_count": 295,
-    "forks_count": 677
+    "stargazers_count": 7708,
+    "open_issues_count": 291,
+    "forks_count": 680
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 10126,
+    "stargazers_count": 10184,
     "open_issues_count": 127,
-    "forks_count": 356
+    "forks_count": 360
   },
   {
     "full_name": "codesphere-cloud/large-language-example-app",
