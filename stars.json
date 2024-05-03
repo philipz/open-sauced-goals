@@ -7,9 +7,9 @@
   },
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 3921,
-    "open_issues_count": 184,
-    "forks_count": 708
+    "stargazers_count": 3934,
+    "open_issues_count": 176,
+    "forks_count": 712
   },
   {
     "full_name": "agelenler/food-ordering-system",
@@ -45,7 +45,7 @@
     "full_name": "Consensys/quorum-kubernetes",
     "stargazers_count": 109,
     "open_issues_count": 7,
-    "forks_count": 115
+    "forks_count": 116
   },
   {
     "full_name": "softarts/sequencetracing",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
-    "stargazers_count": 26586,
+    "stargazers_count": 26624,
     "open_issues_count": 12,
-    "forks_count": 3048
+    "forks_count": 3054
   },
   {
     "full_name": "EventuallyConsistentDDD/design-guidelines",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "docker/genai-stack",
-    "stargazers_count": 2905,
+    "stargazers_count": 2944,
     "open_issues_count": 55,
-    "forks_count": 601
+    "forks_count": 609
   },
   {
     "full_name": "yousseefben/kafka-stream-fraud-java",
@@ -86,7 +86,7 @@
   {
     "full_name": "GoogleCloudPlatform/opentelemetry-cloud-run",
     "stargazers_count": 68,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 12
   },
   {
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 56932,
+    "stargazers_count": 57022,
     "open_issues_count": 38,
-    "forks_count": 5821
+    "forks_count": 5834
   },
   {
     "full_name": "oktadev/java-microservices-examples",
-    "stargazers_count": 520,
+    "stargazers_count": 519,
     "open_issues_count": 0,
-    "forks_count": 303
+    "forks_count": 304
   },
   {
     "full_name": "pvalderas/microservices-composition-infrastructure",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "dasniko/keycloak-reactjs-demo",
-    "stargazers_count": 446,
+    "stargazers_count": 447,
     "open_issues_count": 1,
     "forks_count": 157
   },
@@ -146,12 +146,12 @@
   {
     "full_name": "bcgov/digital-journeys",
     "stargazers_count": 8,
-    "open_issues_count": 179,
+    "open_issues_count": 158,
     "forks_count": 7
   },
   {
     "full_name": "keycloak/keycloak-quickstarts",
-    "stargazers_count": 1822,
+    "stargazers_count": 1824,
     "open_issues_count": 29,
     "forks_count": 945
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "WasmEdge/WasmEdge",
-    "stargazers_count": 7951,
-    "open_issues_count": 295,
-    "forks_count": 700
+    "stargazers_count": 7959,
+    "open_issues_count": 296,
+    "forks_count": 701
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 10926,
-    "open_issues_count": 129,
-    "forks_count": 392
+    "stargazers_count": 11186,
+    "open_issues_count": 126,
+    "forks_count": 430
   }
 ]
