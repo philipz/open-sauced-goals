@@ -3,7 +3,7 @@
     "full_name": "dmakariev/examples",
     "stargazers_count": 8,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 2
   },
   {
     "full_name": "StephenOTT/Camunda-Monitoring",
@@ -19,8 +19,8 @@
   },
   {
     "full_name": "sartography/SpiffWorkflow",
-    "stargazers_count": 1604,
-    "open_issues_count": 8,
+    "stargazers_count": 1605,
+    "open_issues_count": 6,
     "forks_count": 311
   },
   {
@@ -31,26 +31,26 @@
   },
   {
     "full_name": "gavlyukovskiy/spring-boot-data-source-decorator",
-    "stargazers_count": 766,
-    "open_issues_count": 9,
+    "stargazers_count": 767,
+    "open_issues_count": 8,
     "forks_count": 77
   },
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 3969,
+    "stargazers_count": 3982,
     "open_issues_count": 181,
-    "forks_count": 720
+    "forks_count": 724
   },
   {
     "full_name": "agelenler/food-ordering-system",
-    "stargazers_count": 109,
+    "stargazers_count": 111,
     "open_issues_count": 0,
-    "forks_count": 73
+    "forks_count": 77
   },
   {
     "full_name": "jhipster/jhipster-lite",
-    "stargazers_count": 416,
-    "open_issues_count": 65,
+    "stargazers_count": 417,
+    "open_issues_count": 67,
     "forks_count": 199
   },
   {
@@ -63,19 +63,19 @@
     "full_name": "TeamTopologies/Team-API-template",
     "stargazers_count": 625,
     "open_issues_count": 4,
-    "forks_count": 83
+    "forks_count": 84
   },
   {
     "full_name": "xsreality/spring-boot-tracing-demo",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 0,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "Consensys/quorum-kubernetes",
-    "stargazers_count": 109,
+    "stargazers_count": 110,
     "open_issues_count": 9,
-    "forks_count": 118
+    "forks_count": 119
   },
   {
     "full_name": "softarts/sequencetracing",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
-    "stargazers_count": 26833,
+    "stargazers_count": 26901,
     "open_issues_count": 12,
-    "forks_count": 3085
+    "forks_count": 3095
   },
   {
     "full_name": "EventuallyConsistentDDD/design-guidelines",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "docker/genai-stack",
-    "stargazers_count": 3044,
+    "stargazers_count": 3070,
     "open_issues_count": 56,
-    "forks_count": 623
+    "forks_count": 627
   },
   {
     "full_name": "yousseefben/kafka-stream-fraud-java",
@@ -116,8 +116,8 @@
   {
     "full_name": "GoogleCloudPlatform/opentelemetry-cloud-run",
     "stargazers_count": 68,
-    "open_issues_count": 6,
-    "forks_count": 14
+    "open_issues_count": 7,
+    "forks_count": 15
   },
   {
     "full_name": "camunda-community-hub/camunda-7-community-helm",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 58695,
+    "stargazers_count": 58895,
     "open_issues_count": 40,
-    "forks_count": 5990
+    "forks_count": 6007
   },
   {
     "full_name": "oktadev/java-microservices-examples",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "boredabdel/gke-secret-manager",
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -165,18 +165,18 @@
     "full_name": "dasniko/keycloak-reactjs-demo",
     "stargazers_count": 450,
     "open_issues_count": 1,
-    "forks_count": 157
+    "forks_count": 158
   },
   {
     "full_name": "piomin/sample-microservices-protobuf",
-    "stargazers_count": 34,
-    "open_issues_count": 1,
+    "stargazers_count": 35,
+    "open_issues_count": 2,
     "forks_count": 29
   },
   {
     "full_name": "bcgov/digital-journeys",
     "stargazers_count": 8,
-    "open_issues_count": 157,
+    "open_issues_count": 154,
     "forks_count": 7
   }
 ]
