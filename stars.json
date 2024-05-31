@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "xmolecules/jmolecules",
+    "stargazers_count": 1107,
+    "open_issues_count": 16,
+    "forks_count": 96
+  },
+  {
+    "full_name": "xsreality/spring-modulith-with-ddd",
+    "stargazers_count": 56,
+    "open_issues_count": 1,
+    "forks_count": 11
+  },
+  {
     "full_name": "ahmadalammar/order-management-system",
     "stargazers_count": 6,
     "open_issues_count": 0,
@@ -13,20 +25,20 @@
   },
   {
     "full_name": "StephenOTT/Camunda-Monitoring",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 18,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "StephenOTT/Cammand",
-    "stargazers_count": 69,
+    "stargazers_count": 70,
     "open_issues_count": 48,
-    "forks_count": 28
+    "forks_count": 29
   },
   {
     "full_name": "sartography/SpiffWorkflow",
-    "stargazers_count": 1613,
-    "open_issues_count": 6,
+    "stargazers_count": 1621,
+    "open_issues_count": 5,
     "forks_count": 310
   },
   {
@@ -43,19 +55,19 @@
   },
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 4011,
-    "open_issues_count": 199,
-    "forks_count": 729
+    "stargazers_count": 4018,
+    "open_issues_count": 201,
+    "forks_count": 728
   },
   {
     "full_name": "agelenler/food-ordering-system",
-    "stargazers_count": 113,
+    "stargazers_count": 112,
     "open_issues_count": 0,
-    "forks_count": 76
+    "forks_count": 77
   },
   {
     "full_name": "jhipster/jhipster-lite",
-    "stargazers_count": 423,
+    "stargazers_count": 424,
     "open_issues_count": 60,
     "forks_count": 198
   },
@@ -67,9 +79,9 @@
   },
   {
     "full_name": "TeamTopologies/Team-API-template",
-    "stargazers_count": 627,
+    "stargazers_count": 628,
     "open_issues_count": 4,
-    "forks_count": 85
+    "forks_count": 86
   },
   {
     "full_name": "xsreality/spring-boot-tracing-demo",
@@ -91,9 +103,9 @@
   },
   {
     "full_name": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
-    "stargazers_count": 27155,
+    "stargazers_count": 27224,
     "open_issues_count": 12,
-    "forks_count": 3133
+    "forks_count": 3140
   },
   {
     "full_name": "EventuallyConsistentDDD/design-guidelines",
@@ -109,9 +121,9 @@
   },
   {
     "full_name": "docker/genai-stack",
-    "stargazers_count": 3148,
+    "stargazers_count": 3169,
     "open_issues_count": 59,
-    "forks_count": 646
+    "forks_count": 653
   },
   {
     "full_name": "yousseefben/kafka-stream-fraud-java",
@@ -139,13 +151,13 @@
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 59296,
-    "open_issues_count": 40,
-    "forks_count": 6059
+    "stargazers_count": 59381,
+    "open_issues_count": 41,
+    "forks_count": 6077
   },
   {
     "full_name": "oktadev/java-microservices-examples",
-    "stargazers_count": 521,
+    "stargazers_count": 524,
     "open_issues_count": 0,
     "forks_count": 303
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "dasniko/keycloak-reactjs-demo",
-    "stargazers_count": 454,
-    "open_issues_count": 1,
-    "forks_count": 159
-  },
-  {
-    "full_name": "piomin/sample-microservices-protobuf",
-    "stargazers_count": 38,
-    "open_issues_count": 2,
-    "forks_count": 29
   }
 ]
