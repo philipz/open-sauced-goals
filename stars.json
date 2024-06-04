@@ -1,15 +1,33 @@
 [
   {
+    "full_name": "bpm-crafters/bpm-crafters",
+    "stargazers_count": 7,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "bpm-crafters/process-engine-api",
+    "stargazers_count": 6,
+    "open_issues_count": 4,
+    "forks_count": 0
+  },
+  {
+    "full_name": "bpm-crafters/process-engine-worker",
+    "stargazers_count": 3,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
     "full_name": "xmolecules/jmolecules",
-    "stargazers_count": 1107,
+    "stargazers_count": 1114,
     "open_issues_count": 16,
     "forks_count": 96
   },
   {
     "full_name": "xsreality/spring-modulith-with-ddd",
-    "stargazers_count": 56,
+    "stargazers_count": 58,
     "open_issues_count": 1,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "ahmadalammar/order-management-system",
@@ -37,7 +55,7 @@
   },
   {
     "full_name": "sartography/SpiffWorkflow",
-    "stargazers_count": 1621,
+    "stargazers_count": 1623,
     "open_issues_count": 5,
     "forks_count": 310
   },
@@ -49,37 +67,37 @@
   },
   {
     "full_name": "gavlyukovskiy/spring-boot-data-source-decorator",
-    "stargazers_count": 773,
+    "stargazers_count": 774,
     "open_issues_count": 8,
     "forks_count": 77
   },
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 4018,
-    "open_issues_count": 201,
-    "forks_count": 728
+    "stargazers_count": 4028,
+    "open_issues_count": 188,
+    "forks_count": 730
   },
   {
     "full_name": "agelenler/food-ordering-system",
-    "stargazers_count": 112,
+    "stargazers_count": 113,
     "open_issues_count": 0,
-    "forks_count": 77
+    "forks_count": 78
   },
   {
     "full_name": "jhipster/jhipster-lite",
-    "stargazers_count": 424,
+    "stargazers_count": 425,
     "open_issues_count": 60,
     "forks_count": 198
   },
   {
     "full_name": "embesozzi/keycloak-workshop-stepup-mfa-biometrics",
-    "stargazers_count": 29,
+    "stargazers_count": 30,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "TeamTopologies/Team-API-template",
-    "stargazers_count": 628,
+    "stargazers_count": 629,
     "open_issues_count": 4,
     "forks_count": 86
   },
@@ -87,11 +105,11 @@
     "full_name": "xsreality/spring-boot-tracing-demo",
     "stargazers_count": 20,
     "open_issues_count": 0,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "Consensys/quorum-kubernetes",
-    "stargazers_count": 110,
+    "stargazers_count": 111,
     "open_issues_count": 7,
     "forks_count": 118
   },
@@ -103,9 +121,9 @@
   },
   {
     "full_name": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
-    "stargazers_count": 27224,
+    "stargazers_count": 27329,
     "open_issues_count": 12,
-    "forks_count": 3140
+    "forks_count": 3146
   },
   {
     "full_name": "EventuallyConsistentDDD/design-guidelines",
@@ -121,9 +139,9 @@
   },
   {
     "full_name": "docker/genai-stack",
-    "stargazers_count": 3169,
-    "open_issues_count": 59,
-    "forks_count": 653
+    "stargazers_count": 3195,
+    "open_issues_count": 61,
+    "forks_count": 662
   },
   {
     "full_name": "yousseefben/kafka-stream-fraud-java",
@@ -146,37 +164,19 @@
   {
     "full_name": "cathayddt/bdk",
     "stargazers_count": 71,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 21
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 59381,
+    "stargazers_count": 59468,
     "open_issues_count": 41,
-    "forks_count": 6077
+    "forks_count": 6087
   },
   {
     "full_name": "oktadev/java-microservices-examples",
-    "stargazers_count": 524,
+    "stargazers_count": 526,
     "open_issues_count": 0,
     "forks_count": 303
-  },
-  {
-    "full_name": "pvalderas/microservices-composition-infrastructure",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "boredabdel/gke-secret-manager",
-    "stargazers_count": 30,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "SimonVerhoeven/archunit-demo",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 2
   }
 ]
