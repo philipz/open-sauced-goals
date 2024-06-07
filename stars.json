@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "ivangfr/knative-minikube-environment",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
     "full_name": "bpm-crafters/bpm-crafters",
     "stargazers_count": 7,
     "open_issues_count": 1,
@@ -19,15 +25,15 @@
   },
   {
     "full_name": "xmolecules/jmolecules",
-    "stargazers_count": 1114,
+    "stargazers_count": 1116,
     "open_issues_count": 16,
     "forks_count": 96
   },
   {
     "full_name": "xsreality/spring-modulith-with-ddd",
-    "stargazers_count": 58,
+    "stargazers_count": 60,
     "open_issues_count": 1,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "ahmadalammar/order-management-system",
@@ -49,14 +55,14 @@
   },
   {
     "full_name": "StephenOTT/Cammand",
-    "stargazers_count": 70,
+    "stargazers_count": 71,
     "open_issues_count": 48,
     "forks_count": 29
   },
   {
     "full_name": "sartography/SpiffWorkflow",
-    "stargazers_count": 1623,
-    "open_issues_count": 5,
+    "stargazers_count": 1625,
+    "open_issues_count": 8,
     "forks_count": 310
   },
   {
@@ -67,26 +73,26 @@
   },
   {
     "full_name": "gavlyukovskiy/spring-boot-data-source-decorator",
-    "stargazers_count": 774,
+    "stargazers_count": 776,
     "open_issues_count": 8,
     "forks_count": 77
   },
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 4028,
-    "open_issues_count": 188,
-    "forks_count": 730
+    "stargazers_count": 4047,
+    "open_issues_count": 189,
+    "forks_count": 734
   },
   {
     "full_name": "agelenler/food-ordering-system",
-    "stargazers_count": 113,
+    "stargazers_count": 114,
     "open_issues_count": 0,
     "forks_count": 78
   },
   {
     "full_name": "jhipster/jhipster-lite",
-    "stargazers_count": 425,
-    "open_issues_count": 60,
+    "stargazers_count": 426,
+    "open_issues_count": 57,
     "forks_count": 198
   },
   {
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
-    "stargazers_count": 27329,
+    "stargazers_count": 27393,
     "open_issues_count": 12,
-    "forks_count": 3146
+    "forks_count": 3155
   },
   {
     "full_name": "EventuallyConsistentDDD/design-guidelines",
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "docker/genai-stack",
-    "stargazers_count": 3195,
-    "open_issues_count": 61,
-    "forks_count": 662
+    "stargazers_count": 3213,
+    "open_issues_count": 64,
+    "forks_count": 667
   },
   {
     "full_name": "yousseefben/kafka-stream-fraud-java",
@@ -151,7 +157,7 @@
   },
   {
     "full_name": "GoogleCloudPlatform/opentelemetry-cloud-run",
-    "stargazers_count": 69,
+    "stargazers_count": 70,
     "open_issues_count": 7,
     "forks_count": 15
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 59468,
+    "stargazers_count": 59541,
     "open_issues_count": 41,
-    "forks_count": 6087
-  },
-  {
-    "full_name": "oktadev/java-microservices-examples",
-    "stargazers_count": 526,
-    "open_issues_count": 0,
-    "forks_count": 303
+    "forks_count": 6099
   }
 ]
