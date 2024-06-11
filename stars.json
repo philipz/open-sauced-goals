@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "nfrankel/opentelemetry-tracing",
+    "stargazers_count": 40,
+    "open_issues_count": 2,
+    "forks_count": 18
+  },
+  {
     "full_name": "ivangfr/knative-minikube-environment",
     "stargazers_count": 6,
     "open_issues_count": 0,
@@ -25,15 +31,15 @@
   },
   {
     "full_name": "xmolecules/jmolecules",
-    "stargazers_count": 1116,
+    "stargazers_count": 1117,
     "open_issues_count": 16,
     "forks_count": 96
   },
   {
     "full_name": "xsreality/spring-modulith-with-ddd",
-    "stargazers_count": 60,
+    "stargazers_count": 62,
     "open_issues_count": 1,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "ahmadalammar/order-management-system",
@@ -45,7 +51,7 @@
     "full_name": "dmakariev/examples",
     "stargazers_count": 8,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "StephenOTT/Camunda-Monitoring",
@@ -61,7 +67,7 @@
   },
   {
     "full_name": "sartography/SpiffWorkflow",
-    "stargazers_count": 1625,
+    "stargazers_count": 1626,
     "open_issues_count": 8,
     "forks_count": 310
   },
@@ -73,31 +79,31 @@
   },
   {
     "full_name": "gavlyukovskiy/spring-boot-data-source-decorator",
-    "stargazers_count": 776,
+    "stargazers_count": 782,
     "open_issues_count": 8,
     "forks_count": 77
   },
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 4047,
-    "open_issues_count": 189,
-    "forks_count": 734
+    "stargazers_count": 4059,
+    "open_issues_count": 191,
+    "forks_count": 736
   },
   {
     "full_name": "agelenler/food-ordering-system",
-    "stargazers_count": 114,
+    "stargazers_count": 116,
     "open_issues_count": 0,
-    "forks_count": 78
+    "forks_count": 79
   },
   {
     "full_name": "jhipster/jhipster-lite",
     "stargazers_count": 426,
-    "open_issues_count": 57,
-    "forks_count": 198
+    "open_issues_count": 63,
+    "forks_count": 197
   },
   {
     "full_name": "embesozzi/keycloak-workshop-stepup-mfa-biometrics",
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 0,
     "forks_count": 11
   },
@@ -115,7 +121,7 @@
   },
   {
     "full_name": "Consensys/quorum-kubernetes",
-    "stargazers_count": 111,
+    "stargazers_count": 112,
     "open_issues_count": 7,
     "forks_count": 118
   },
@@ -127,9 +133,9 @@
   },
   {
     "full_name": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
-    "stargazers_count": 27393,
+    "stargazers_count": 27521,
     "open_issues_count": 12,
-    "forks_count": 3155
+    "forks_count": 3164
   },
   {
     "full_name": "EventuallyConsistentDDD/design-guidelines",
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "docker/genai-stack",
-    "stargazers_count": 3213,
-    "open_issues_count": 64,
-    "forks_count": 667
+    "stargazers_count": 3226,
+    "open_issues_count": 65,
+    "forks_count": 670
   },
   {
     "full_name": "yousseefben/kafka-stream-fraud-java",
@@ -172,11 +178,5 @@
     "stargazers_count": 71,
     "open_issues_count": 14,
     "forks_count": 21
-  },
-  {
-    "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 59541,
-    "open_issues_count": 41,
-    "forks_count": 6099
   }
 ]
