@@ -1,9 +1,9 @@
 [
   {
     "full_name": "nfrankel/opentelemetry-tracing",
-    "stargazers_count": 40,
-    "open_issues_count": 2,
-    "forks_count": 18
+    "stargazers_count": 42,
+    "open_issues_count": 5,
+    "forks_count": 19
   },
   {
     "full_name": "ivangfr/knative-minikube-environment",
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "sartography/SpiffWorkflow",
-    "stargazers_count": 1626,
-    "open_issues_count": 8,
+    "stargazers_count": 1628,
+    "open_issues_count": 9,
     "forks_count": 310
   },
   {
@@ -79,26 +79,26 @@
   },
   {
     "full_name": "gavlyukovskiy/spring-boot-data-source-decorator",
-    "stargazers_count": 782,
+    "stargazers_count": 784,
     "open_issues_count": 8,
     "forks_count": 77
   },
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 4059,
-    "open_issues_count": 191,
-    "forks_count": 736
+    "stargazers_count": 4066,
+    "open_issues_count": 190,
+    "forks_count": 738
   },
   {
     "full_name": "agelenler/food-ordering-system",
-    "stargazers_count": 116,
+    "stargazers_count": 117,
     "open_issues_count": 0,
     "forks_count": 79
   },
   {
     "full_name": "jhipster/jhipster-lite",
-    "stargazers_count": 426,
-    "open_issues_count": 63,
+    "stargazers_count": 428,
+    "open_issues_count": 57,
     "forks_count": 197
   },
   {
@@ -111,7 +111,7 @@
     "full_name": "TeamTopologies/Team-API-template",
     "stargazers_count": 629,
     "open_issues_count": 4,
-    "forks_count": 86
+    "forks_count": 87
   },
   {
     "full_name": "xsreality/spring-boot-tracing-demo",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
-    "stargazers_count": 27521,
+    "stargazers_count": 27587,
     "open_issues_count": 12,
-    "forks_count": 3164
+    "forks_count": 3173
   },
   {
     "full_name": "EventuallyConsistentDDD/design-guidelines",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "docker/genai-stack",
-    "stargazers_count": 3226,
+    "stargazers_count": 3252,
     "open_issues_count": 65,
-    "forks_count": 670
+    "forks_count": 678
   },
   {
     "full_name": "yousseefben/kafka-stream-fraud-java",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "cathayddt/bdk",
-    "stargazers_count": 71,
-    "open_issues_count": 14,
-    "forks_count": 21
+    "stargazers_count": 72,
+    "open_issues_count": 13,
+    "forks_count": 22
   }
 ]
