@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "dashaun/paketo-arm64",
+    "stargazers_count": 84,
+    "open_issues_count": 2,
+    "forks_count": 7
+  },
+  {
     "full_name": "colinlucs/microservices-orchestration-amqp-example",
     "stargazers_count": 76,
     "open_issues_count": 1,
@@ -7,7 +13,7 @@
   },
   {
     "full_name": "nfrankel/opentelemetry-tracing",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 6,
     "forks_count": 19
   },
@@ -20,7 +26,7 @@
   {
     "full_name": "bpm-crafters/bpm-crafters",
     "stargazers_count": 7,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 2
   },
   {
@@ -37,14 +43,14 @@
   },
   {
     "full_name": "xmolecules/jmolecules",
-    "stargazers_count": 1122,
+    "stargazers_count": 1130,
     "open_issues_count": 17,
     "forks_count": 96
   },
   {
     "full_name": "xsreality/spring-modulith-with-ddd",
-    "stargazers_count": 64,
-    "open_issues_count": 1,
+    "stargazers_count": 65,
+    "open_issues_count": 0,
     "forks_count": 13
   },
   {
@@ -74,7 +80,7 @@
   {
     "full_name": "sartography/SpiffWorkflow",
     "stargazers_count": 1632,
-    "open_issues_count": 10,
+    "open_issues_count": 9,
     "forks_count": 310
   },
   {
@@ -85,15 +91,15 @@
   },
   {
     "full_name": "gavlyukovskiy/spring-boot-data-source-decorator",
-    "stargazers_count": 787,
-    "open_issues_count": 8,
+    "stargazers_count": 788,
+    "open_issues_count": 9,
     "forks_count": 77
   },
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 4082,
+    "stargazers_count": 4091,
     "open_issues_count": 182,
-    "forks_count": 745
+    "forks_count": 744
   },
   {
     "full_name": "agelenler/food-ordering-system",
@@ -104,8 +110,8 @@
   {
     "full_name": "jhipster/jhipster-lite",
     "stargazers_count": 432,
-    "open_issues_count": 61,
-    "forks_count": 196
+    "open_issues_count": 62,
+    "forks_count": 197
   },
   {
     "full_name": "embesozzi/keycloak-workshop-stepup-mfa-biometrics",
@@ -115,7 +121,7 @@
   },
   {
     "full_name": "TeamTopologies/Team-API-template",
-    "stargazers_count": 630,
+    "stargazers_count": 633,
     "open_issues_count": 4,
     "forks_count": 87
   },
@@ -127,8 +133,8 @@
   },
   {
     "full_name": "Consensys/quorum-kubernetes",
-    "stargazers_count": 113,
-    "open_issues_count": 8,
+    "stargazers_count": 114,
+    "open_issues_count": 9,
     "forks_count": 120
   },
   {
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
-    "stargazers_count": 27724,
+    "stargazers_count": 27783,
     "open_issues_count": 12,
-    "forks_count": 3195
+    "forks_count": 3200
   },
   {
     "full_name": "EventuallyConsistentDDD/design-guidelines",
@@ -157,9 +163,9 @@
   },
   {
     "full_name": "docker/genai-stack",
-    "stargazers_count": 3296,
+    "stargazers_count": 3326,
     "open_issues_count": 66,
-    "forks_count": 683
+    "forks_count": 689
   },
   {
     "full_name": "yousseefben/kafka-stream-fraud-java",
@@ -172,11 +178,5 @@
     "stargazers_count": 71,
     "open_issues_count": 7,
     "forks_count": 15
-  },
-  {
-    "full_name": "camunda-community-hub/camunda-7-community-helm",
-    "stargazers_count": 38,
-    "open_issues_count": 6,
-    "forks_count": 39
   }
 ]
