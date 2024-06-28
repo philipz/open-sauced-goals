@@ -14,7 +14,7 @@
   {
     "full_name": "nfrankel/opentelemetry-tracing",
     "stargazers_count": 45,
-    "open_issues_count": 6,
+    "open_issues_count": 8,
     "forks_count": 19
   },
   {
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "xmolecules/jmolecules",
-    "stargazers_count": 1130,
+    "stargazers_count": 1135,
     "open_issues_count": 17,
     "forks_count": 96
   },
   {
     "full_name": "xsreality/spring-modulith-with-ddd",
-    "stargazers_count": 65,
+    "stargazers_count": 67,
     "open_issues_count": 0,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "ahmadalammar/order-management-system",
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "sartography/SpiffWorkflow",
-    "stargazers_count": 1632,
-    "open_issues_count": 9,
+    "stargazers_count": 1633,
+    "open_issues_count": 8,
     "forks_count": 310
   },
   {
@@ -91,31 +91,31 @@
   },
   {
     "full_name": "gavlyukovskiy/spring-boot-data-source-decorator",
-    "stargazers_count": 788,
+    "stargazers_count": 790,
     "open_issues_count": 9,
-    "forks_count": 77
+    "forks_count": 79
   },
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 4091,
-    "open_issues_count": 182,
-    "forks_count": 744
+    "stargazers_count": 4098,
+    "open_issues_count": 185,
+    "forks_count": 749
   },
   {
     "full_name": "agelenler/food-ordering-system",
     "stargazers_count": 121,
     "open_issues_count": 0,
-    "forks_count": 79
+    "forks_count": 80
   },
   {
     "full_name": "jhipster/jhipster-lite",
-    "stargazers_count": 432,
-    "open_issues_count": 62,
+    "stargazers_count": 433,
+    "open_issues_count": 58,
     "forks_count": 197
   },
   {
     "full_name": "embesozzi/keycloak-workshop-stepup-mfa-biometrics",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 0,
     "forks_count": 11
   },
@@ -123,7 +123,7 @@
     "full_name": "TeamTopologies/Team-API-template",
     "stargazers_count": 633,
     "open_issues_count": 4,
-    "forks_count": 87
+    "forks_count": 88
   },
   {
     "full_name": "xsreality/spring-boot-tracing-demo",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
-    "stargazers_count": 27783,
+    "stargazers_count": 27827,
     "open_issues_count": 12,
-    "forks_count": 3200
+    "forks_count": 3206
   },
   {
     "full_name": "EventuallyConsistentDDD/design-guidelines",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "docker/genai-stack",
-    "stargazers_count": 3326,
+    "stargazers_count": 3346,
     "open_issues_count": 66,
-    "forks_count": 689
+    "forks_count": 693
   },
   {
     "full_name": "yousseefben/kafka-stream-fraud-java",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "GoogleCloudPlatform/opentelemetry-cloud-run",
-    "stargazers_count": 71,
-    "open_issues_count": 7,
+    "stargazers_count": 72,
+    "open_issues_count": 6,
     "forks_count": 15
   }
 ]
