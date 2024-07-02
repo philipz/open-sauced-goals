@@ -14,8 +14,8 @@
   {
     "full_name": "nfrankel/opentelemetry-tracing",
     "stargazers_count": 45,
-    "open_issues_count": 8,
-    "forks_count": 19
+    "open_issues_count": 11,
+    "forks_count": 20
   },
   {
     "full_name": "ivangfr/knative-minikube-environment",
@@ -43,14 +43,14 @@
   },
   {
     "full_name": "xmolecules/jmolecules",
-    "stargazers_count": 1135,
+    "stargazers_count": 1137,
     "open_issues_count": 17,
-    "forks_count": 96
+    "forks_count": 97
   },
   {
     "full_name": "xsreality/spring-modulith-with-ddd",
-    "stargazers_count": 67,
-    "open_issues_count": 0,
+    "stargazers_count": 68,
+    "open_issues_count": 1,
     "forks_count": 14
   },
   {
@@ -91,26 +91,26 @@
   },
   {
     "full_name": "gavlyukovskiy/spring-boot-data-source-decorator",
-    "stargazers_count": 790,
+    "stargazers_count": 791,
     "open_issues_count": 9,
     "forks_count": 79
   },
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 4098,
-    "open_issues_count": 185,
-    "forks_count": 749
+    "stargazers_count": 4112,
+    "open_issues_count": 188,
+    "forks_count": 750
   },
   {
     "full_name": "agelenler/food-ordering-system",
-    "stargazers_count": 121,
+    "stargazers_count": 120,
     "open_issues_count": 0,
     "forks_count": 80
   },
   {
     "full_name": "jhipster/jhipster-lite",
     "stargazers_count": 433,
-    "open_issues_count": 58,
+    "open_issues_count": 56,
     "forks_count": 197
   },
   {
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
-    "stargazers_count": 27827,
+    "stargazers_count": 27863,
     "open_issues_count": 12,
-    "forks_count": 3206
+    "forks_count": 3215
   },
   {
     "full_name": "EventuallyConsistentDDD/design-guidelines",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "docker/genai-stack",
-    "stargazers_count": 3346,
-    "open_issues_count": 66,
-    "forks_count": 693
+    "stargazers_count": 3365,
+    "open_issues_count": 67,
+    "forks_count": 700
   },
   {
     "full_name": "yousseefben/kafka-stream-fraud-java",
