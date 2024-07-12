@@ -1,9 +1,15 @@
 [
   {
-    "full_name": "jonatan-ivanov/teahouse",
-    "stargazers_count": 177,
+    "full_name": "berndruecker/bpmn-resilience-patterns",
+    "stargazers_count": 7,
     "open_issues_count": 0,
-    "forks_count": 52
+    "forks_count": 6
+  },
+  {
+    "full_name": "jonatan-ivanov/teahouse",
+    "stargazers_count": 178,
+    "open_issues_count": 0,
+    "forks_count": 55
   },
   {
     "full_name": "dashaun/paketo-arm64",
@@ -49,14 +55,14 @@
   },
   {
     "full_name": "xmolecules/jmolecules",
-    "stargazers_count": 1147,
-    "open_issues_count": 17,
+    "stargazers_count": 1151,
+    "open_issues_count": 18,
     "forks_count": 97
   },
   {
     "full_name": "xsreality/spring-modulith-with-ddd",
-    "stargazers_count": 72,
-    "open_issues_count": 1,
+    "stargazers_count": 73,
+    "open_issues_count": 0,
     "forks_count": 15
   },
   {
@@ -85,7 +91,7 @@
   },
   {
     "full_name": "sartography/SpiffWorkflow",
-    "stargazers_count": 1636,
+    "stargazers_count": 1638,
     "open_issues_count": 8,
     "forks_count": 309
   },
@@ -103,21 +109,21 @@
   },
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 4125,
-    "open_issues_count": 190,
-    "forks_count": 756
+    "stargazers_count": 4139,
+    "open_issues_count": 186,
+    "forks_count": 760
   },
   {
     "full_name": "agelenler/food-ordering-system",
-    "stargazers_count": 122,
+    "stargazers_count": 124,
     "open_issues_count": 0,
-    "forks_count": 82
+    "forks_count": 83
   },
   {
     "full_name": "jhipster/jhipster-lite",
-    "stargazers_count": 433,
-    "open_issues_count": 55,
-    "forks_count": 196
+    "stargazers_count": 434,
+    "open_issues_count": 58,
+    "forks_count": 197
   },
   {
     "full_name": "embesozzi/keycloak-workshop-stepup-mfa-biometrics",
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
-    "stargazers_count": 27940,
+    "stargazers_count": 27960,
     "open_issues_count": 12,
-    "forks_count": 3216
+    "forks_count": 3217
   },
   {
     "full_name": "EventuallyConsistentDDD/design-guidelines",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "docker/genai-stack",
-    "stargazers_count": 3405,
-    "open_issues_count": 66,
-    "forks_count": 707
-  },
-  {
-    "full_name": "yousseefben/kafka-stream-fraud-java",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 1
+    "stargazers_count": 3434,
+    "open_issues_count": 70,
+    "forks_count": 716
   }
 ]
