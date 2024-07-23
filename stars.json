@@ -1,9 +1,9 @@
 [
   {
     "full_name": "cloudnative-pg/cloudnative-pg",
-    "stargazers_count": 3846,
-    "open_issues_count": 299,
-    "forks_count": 261
+    "stargazers_count": 3868,
+    "open_issues_count": 302,
+    "forks_count": 262
   },
   {
     "full_name": "barmac/bpmn-js-copy-as-image",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "jonatan-ivanov/teahouse",
-    "stargazers_count": 187,
+    "stargazers_count": 188,
     "open_issues_count": 2,
-    "forks_count": 57
+    "forks_count": 58
   },
   {
     "full_name": "dashaun/paketo-arm64",
@@ -67,14 +67,14 @@
   },
   {
     "full_name": "xmolecules/jmolecules",
-    "stargazers_count": 1158,
+    "stargazers_count": 1159,
     "open_issues_count": 18,
     "forks_count": 97
   },
   {
     "full_name": "xsreality/spring-modulith-with-ddd",
-    "stargazers_count": 80,
-    "open_issues_count": 1,
+    "stargazers_count": 81,
+    "open_issues_count": 0,
     "forks_count": 15
   },
   {
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "sartography/SpiffWorkflow",
-    "stargazers_count": 1640,
+    "stargazers_count": 1642,
     "open_issues_count": 9,
     "forks_count": 310
   },
@@ -115,31 +115,31 @@
   },
   {
     "full_name": "gavlyukovskiy/spring-boot-data-source-decorator",
-    "stargazers_count": 797,
+    "stargazers_count": 800,
     "open_issues_count": 9,
     "forks_count": 80
   },
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 4157,
-    "open_issues_count": 185,
-    "forks_count": 764
+    "stargazers_count": 4165,
+    "open_issues_count": 183,
+    "forks_count": 770
   },
   {
     "full_name": "agelenler/food-ordering-system",
-    "stargazers_count": 127,
+    "stargazers_count": 128,
     "open_issues_count": 0,
-    "forks_count": 84
+    "forks_count": 86
   },
   {
     "full_name": "jhipster/jhipster-lite",
-    "stargazers_count": 435,
-    "open_issues_count": 56,
+    "stargazers_count": 436,
+    "open_issues_count": 60,
     "forks_count": 198
   },
   {
     "full_name": "embesozzi/keycloak-workshop-stepup-mfa-biometrics",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 0,
     "forks_count": 12
   },
@@ -151,14 +151,14 @@
   },
   {
     "full_name": "xsreality/spring-boot-tracing-demo",
-    "stargazers_count": 20,
+    "stargazers_count": 21,
     "open_issues_count": 0,
     "forks_count": 13
   },
   {
     "full_name": "Consensys/quorum-kubernetes",
     "stargazers_count": 114,
-    "open_issues_count": 11,
+    "open_issues_count": 10,
     "forks_count": 124
   },
   {
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
-    "stargazers_count": 28062,
-    "open_issues_count": 12,
-    "forks_count": 3226
+    "stargazers_count": 28108,
+    "open_issues_count": 14,
+    "forks_count": 3228
   },
   {
     "full_name": "EventuallyConsistentDDD/design-guidelines",
