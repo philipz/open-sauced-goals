@@ -1,9 +1,9 @@
 [
   {
     "full_name": "cloudnative-pg/cloudnative-pg",
-    "stargazers_count": 3953,
-    "open_issues_count": 302,
-    "forks_count": 267
+    "stargazers_count": 3965,
+    "open_issues_count": 308,
+    "forks_count": 269
   },
   {
     "full_name": "barmac/bpmn-js-copy-as-image",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "jonatan-ivanov/teahouse",
-    "stargazers_count": 194,
+    "stargazers_count": 195,
     "open_issues_count": 2,
     "forks_count": 64
   },
@@ -38,7 +38,7 @@
   {
     "full_name": "nfrankel/opentelemetry-tracing",
     "stargazers_count": 47,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "forks_count": 20
   },
   {
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "xmolecules/jmolecules",
-    "stargazers_count": 1169,
+    "stargazers_count": 1173,
     "open_issues_count": 18,
     "forks_count": 97
   },
   {
     "full_name": "xsreality/spring-modulith-with-ddd",
-    "stargazers_count": 91,
+    "stargazers_count": 94,
     "open_issues_count": 0,
     "forks_count": 15
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "sartography/SpiffWorkflow",
-    "stargazers_count": 1649,
+    "stargazers_count": 1651,
     "open_issues_count": 8,
     "forks_count": 311
   },
@@ -116,25 +116,25 @@
   {
     "full_name": "gavlyukovskiy/spring-boot-data-source-decorator",
     "stargazers_count": 807,
-    "open_issues_count": 9,
+    "open_issues_count": 11,
     "forks_count": 81
   },
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 4192,
-    "open_issues_count": 191,
-    "forks_count": 779
+    "stargazers_count": 4199,
+    "open_issues_count": 189,
+    "forks_count": 786
   },
   {
     "full_name": "agelenler/food-ordering-system",
-    "stargazers_count": 130,
+    "stargazers_count": 132,
     "open_issues_count": 0,
     "forks_count": 87
   },
   {
     "full_name": "jhipster/jhipster-lite",
-    "stargazers_count": 438,
-    "open_issues_count": 70,
+    "stargazers_count": 439,
+    "open_issues_count": 66,
     "forks_count": 199
   },
   {
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "Consensys/quorum-kubernetes",
-    "stargazers_count": 115,
+    "stargazers_count": 116,
     "open_issues_count": 10,
     "forks_count": 124
   },
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
-    "stargazers_count": 28259,
+    "stargazers_count": 28287,
     "open_issues_count": 14,
-    "forks_count": 3245
+    "forks_count": 3248
   },
   {
     "full_name": "EventuallyConsistentDDD/design-guidelines",
