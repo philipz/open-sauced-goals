@@ -1,9 +1,9 @@
 [
   {
     "full_name": "cloudnative-pg/cloudnative-pg",
-    "stargazers_count": 3965,
-    "open_issues_count": 308,
-    "forks_count": 269
+    "stargazers_count": 3992,
+    "open_issues_count": 307,
+    "forks_count": 270
   },
   {
     "full_name": "barmac/bpmn-js-copy-as-image",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "jonatan-ivanov/teahouse",
-    "stargazers_count": 195,
+    "stargazers_count": 197,
     "open_issues_count": 2,
     "forks_count": 64
   },
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "nfrankel/opentelemetry-tracing",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 11,
     "forks_count": 20
   },
@@ -50,13 +50,13 @@
   {
     "full_name": "bpm-crafters/bpm-crafters",
     "stargazers_count": 7,
-    "open_issues_count": 2,
+    "open_issues_count": 6,
     "forks_count": 2
   },
   {
     "full_name": "bpm-crafters/process-engine-api",
     "stargazers_count": 6,
-    "open_issues_count": 4,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "xmolecules/jmolecules",
-    "stargazers_count": 1173,
+    "stargazers_count": 1174,
     "open_issues_count": 18,
     "forks_count": 97
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "dmakariev/examples",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -115,37 +115,37 @@
   },
   {
     "full_name": "gavlyukovskiy/spring-boot-data-source-decorator",
-    "stargazers_count": 807,
+    "stargazers_count": 812,
     "open_issues_count": 11,
     "forks_count": 81
   },
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 4199,
-    "open_issues_count": 189,
+    "stargazers_count": 4207,
+    "open_issues_count": 198,
     "forks_count": 786
   },
   {
     "full_name": "agelenler/food-ordering-system",
     "stargazers_count": 132,
     "open_issues_count": 0,
-    "forks_count": 87
+    "forks_count": 88
   },
   {
     "full_name": "jhipster/jhipster-lite",
     "stargazers_count": 439,
-    "open_issues_count": 66,
+    "open_issues_count": 64,
     "forks_count": 199
   },
   {
     "full_name": "embesozzi/keycloak-workshop-stepup-mfa-biometrics",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "TeamTopologies/Team-API-template",
-    "stargazers_count": 639,
+    "stargazers_count": 640,
     "open_issues_count": 4,
     "forks_count": 91
   },
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
-    "stargazers_count": 28287,
+    "stargazers_count": 28311,
     "open_issues_count": 14,
-    "forks_count": 3248
+    "forks_count": 3250
   },
   {
     "full_name": "EventuallyConsistentDDD/design-guidelines",
