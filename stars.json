@@ -1,9 +1,9 @@
 [
   {
     "full_name": "krahets/hello-algo",
-    "stargazers_count": 93253,
-    "open_issues_count": 20,
-    "forks_count": 11786
+    "stargazers_count": 93563,
+    "open_issues_count": 18,
+    "forks_count": 11829
   },
   {
     "full_name": "selcuksert/digilib",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "cloudnative-pg/cloudnative-pg",
-    "stargazers_count": 4025,
-    "open_issues_count": 329,
-    "forks_count": 272
+    "stargazers_count": 4056,
+    "open_issues_count": 328,
+    "forks_count": 275
   },
   {
     "full_name": "barmac/bpmn-js-copy-as-image",
@@ -68,7 +68,7 @@
   {
     "full_name": "bpm-crafters/bpm-crafters",
     "stargazers_count": 7,
-    "open_issues_count": 6,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
@@ -85,13 +85,13 @@
   },
   {
     "full_name": "xmolecules/jmolecules",
-    "stargazers_count": 1183,
+    "stargazers_count": 1188,
     "open_issues_count": 18,
     "forks_count": 97
   },
   {
     "full_name": "xsreality/spring-modulith-with-ddd",
-    "stargazers_count": 96,
+    "stargazers_count": 99,
     "open_issues_count": 1,
     "forks_count": 17
   },
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "sartography/SpiffWorkflow",
-    "stargazers_count": 1656,
-    "open_issues_count": 8,
+    "stargazers_count": 1657,
+    "open_issues_count": 6,
     "forks_count": 309
   },
   {
@@ -133,27 +133,27 @@
   },
   {
     "full_name": "gavlyukovskiy/spring-boot-data-source-decorator",
-    "stargazers_count": 816,
+    "stargazers_count": 818,
     "open_issues_count": 11,
     "forks_count": 81
   },
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 4222,
-    "open_issues_count": 210,
-    "forks_count": 789
+    "stargazers_count": 4233,
+    "open_issues_count": 208,
+    "forks_count": 790
   },
   {
     "full_name": "agelenler/food-ordering-system",
-    "stargazers_count": 132,
+    "stargazers_count": 133,
     "open_issues_count": 0,
-    "forks_count": 89
+    "forks_count": 90
   },
   {
     "full_name": "jhipster/jhipster-lite",
-    "stargazers_count": 440,
-    "open_issues_count": 63,
-    "forks_count": 199
+    "stargazers_count": 442,
+    "open_issues_count": 67,
+    "forks_count": 201
   },
   {
     "full_name": "embesozzi/keycloak-workshop-stepup-mfa-biometrics",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "TeamTopologies/Team-API-template",
-    "stargazers_count": 640,
+    "stargazers_count": 642,
     "open_issues_count": 4,
     "forks_count": 91
   },
