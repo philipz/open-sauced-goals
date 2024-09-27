@@ -13,9 +13,9 @@
   },
   {
     "full_name": "sickcodes/Docker-OSX",
-    "stargazers_count": 46025,
-    "open_issues_count": 367,
-    "forks_count": 2453
+    "stargazers_count": 46147,
+    "open_issues_count": 368,
+    "forks_count": 2466
   },
   {
     "full_name": "datakurre/camunda-cockpit-plugins",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "krahets/hello-algo",
-    "stargazers_count": 95791,
-    "open_issues_count": 26,
-    "forks_count": 12147
+    "stargazers_count": 95912,
+    "open_issues_count": 18,
+    "forks_count": 12175
   },
   {
     "full_name": "selcuksert/digilib",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "cloudnative-pg/cloudnative-pg",
-    "stargazers_count": 4287,
-    "open_issues_count": 377,
-    "forks_count": 292
+    "stargazers_count": 4313,
+    "open_issues_count": 378,
+    "forks_count": 298
   },
   {
     "full_name": "barmac/bpmn-js-copy-as-image",
@@ -61,13 +61,13 @@
   },
   {
     "full_name": "jonatan-ivanov/teahouse",
-    "stargazers_count": 217,
+    "stargazers_count": 224,
     "open_issues_count": 2,
-    "forks_count": 71
+    "forks_count": 72
   },
   {
     "full_name": "dashaun/paketo-arm64",
-    "stargazers_count": 90,
+    "stargazers_count": 91,
     "open_issues_count": 2,
     "forks_count": 7
   },
@@ -91,13 +91,13 @@
   },
   {
     "full_name": "bpm-crafters/bpm-crafters",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "bpm-crafters/process-engine-api",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 6,
     "forks_count": 0
   },
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "xmolecules/jmolecules",
-    "stargazers_count": 1220,
-    "open_issues_count": 22,
-    "forks_count": 102
+    "stargazers_count": 1222,
+    "open_issues_count": 20,
+    "forks_count": 103
   },
   {
     "full_name": "xsreality/spring-modulith-with-ddd",
-    "stargazers_count": 108,
+    "stargazers_count": 110,
     "open_issues_count": 1,
     "forks_count": 19
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "sartography/SpiffWorkflow",
-    "stargazers_count": 1670,
+    "stargazers_count": 1672,
     "open_issues_count": 6,
-    "forks_count": 311
+    "forks_count": 312
   },
   {
     "full_name": "holunda-io/camunda-two-datasources",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "gavlyukovskiy/spring-boot-data-source-decorator",
-    "stargazers_count": 832,
-    "open_issues_count": 11,
+    "stargazers_count": 833,
+    "open_issues_count": 10,
     "forks_count": 81
   },
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 4320,
-    "open_issues_count": 208,
-    "forks_count": 813
+    "stargazers_count": 4333,
+    "open_issues_count": 207,
+    "forks_count": 812
   },
   {
     "full_name": "agelenler/food-ordering-system",
     "stargazers_count": 142,
     "open_issues_count": 0,
-    "forks_count": 92
+    "forks_count": 93
   },
   {
     "full_name": "jhipster/jhipster-lite",
-    "stargazers_count": 453,
-    "open_issues_count": 85,
+    "stargazers_count": 452,
+    "open_issues_count": 73,
     "forks_count": 209
   }
 ]
