@@ -13,9 +13,9 @@
   },
   {
     "full_name": "sickcodes/Docker-OSX",
-    "stargazers_count": 46362,
+    "stargazers_count": 46534,
     "open_issues_count": 370,
-    "forks_count": 2486
+    "forks_count": 2510
   },
   {
     "full_name": "datakurre/camunda-cockpit-plugins",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "krahets/hello-algo",
-    "stargazers_count": 96106,
+    "stargazers_count": 96152,
     "open_issues_count": 15,
-    "forks_count": 12188
+    "forks_count": 12190
   },
   {
     "full_name": "selcuksert/digilib",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "cloudnative-pg/cloudnative-pg",
-    "stargazers_count": 4366,
+    "stargazers_count": 4385,
     "open_issues_count": 387,
     "forks_count": 300
   },
@@ -98,24 +98,24 @@
   {
     "full_name": "bpm-crafters/process-engine-api",
     "stargazers_count": 8,
-    "open_issues_count": 7,
+    "open_issues_count": 11,
     "forks_count": 0
   },
   {
     "full_name": "bpm-crafters/process-engine-worker",
     "stargazers_count": 4,
-    "open_issues_count": 4,
+    "open_issues_count": 8,
     "forks_count": 1
   },
   {
     "full_name": "xmolecules/jmolecules",
-    "stargazers_count": 1224,
-    "open_issues_count": 20,
+    "stargazers_count": 1228,
+    "open_issues_count": 21,
     "forks_count": 103
   },
   {
     "full_name": "xsreality/spring-modulith-with-ddd",
-    "stargazers_count": 113,
+    "stargazers_count": 115,
     "open_issues_count": 1,
     "forks_count": 19
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "sartography/SpiffWorkflow",
-    "stargazers_count": 1679,
+    "stargazers_count": 1681,
     "open_issues_count": 6,
     "forks_count": 311
   },
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "gavlyukovskiy/spring-boot-data-source-decorator",
-    "stargazers_count": 834,
+    "stargazers_count": 837,
     "open_issues_count": 10,
     "forks_count": 81
   },
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 4345,
-    "open_issues_count": 209,
-    "forks_count": 811
+    "stargazers_count": 4352,
+    "open_issues_count": 222,
+    "forks_count": 812
   },
   {
     "full_name": "agelenler/food-ordering-system",
-    "stargazers_count": 144,
+    "stargazers_count": 146,
     "open_issues_count": 0,
     "forks_count": 95
   },
   {
     "full_name": "jhipster/jhipster-lite",
-    "stargazers_count": 453,
-    "open_issues_count": 70,
+    "stargazers_count": 455,
+    "open_issues_count": 73,
     "forks_count": 209
   }
 ]
