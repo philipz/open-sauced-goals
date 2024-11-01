@@ -1,9 +1,9 @@
 [
   {
     "full_name": "Skyvern-AI/skyvern",
-    "stargazers_count": 8953,
-    "open_issues_count": 13,
-    "forks_count": 575
+    "stargazers_count": 9427,
+    "open_issues_count": 21,
+    "forks_count": 629
   },
   {
     "full_name": "ajavageek/boot-tracing",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "sickcodes/Docker-OSX",
-    "stargazers_count": 47783,
-    "open_issues_count": 368,
-    "forks_count": 2630
+    "stargazers_count": 47859,
+    "open_issues_count": 370,
+    "forks_count": 2640
   },
   {
     "full_name": "datakurre/camunda-cockpit-plugins",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "krahets/hello-algo",
-    "stargazers_count": 97757,
-    "open_issues_count": 18,
-    "forks_count": 12390
+    "stargazers_count": 97862,
+    "open_issues_count": 17,
+    "forks_count": 12402
   },
   {
     "full_name": "selcuksert/digilib",
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "cloudnative-pg/cloudnative-pg",
-    "stargazers_count": 4549,
-    "open_issues_count": 394,
+    "stargazers_count": 4569,
+    "open_issues_count": 399,
     "forks_count": 306
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "bpm-crafters/process-engine-api",
-    "stargazers_count": 10,
-    "open_issues_count": 3,
+    "stargazers_count": 11,
+    "open_issues_count": 5,
     "forks_count": 0
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "xmolecules/jmolecules",
-    "stargazers_count": 1242,
+    "stargazers_count": 1245,
     "open_issues_count": 21,
     "forks_count": 103
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "sartography/SpiffWorkflow",
-    "stargazers_count": 1686,
+    "stargazers_count": 1687,
     "open_issues_count": 6,
     "forks_count": 313
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "gavlyukovskiy/spring-boot-data-source-decorator",
-    "stargazers_count": 853,
+    "stargazers_count": 854,
     "open_issues_count": 13,
-    "forks_count": 82
+    "forks_count": 83
   },
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 4406,
-    "open_issues_count": 232,
-    "forks_count": 828
+    "stargazers_count": 4419,
+    "open_issues_count": 218,
+    "forks_count": 836
   },
   {
     "full_name": "agelenler/food-ordering-system",
-    "stargazers_count": 156,
+    "stargazers_count": 158,
     "open_issues_count": 0,
-    "forks_count": 102
+    "forks_count": 106
   }
 ]
