@@ -1,15 +1,15 @@
 [
   {
     "full_name": "denyspoltorak/publications",
-    "stargazers_count": 163,
+    "stargazers_count": 182,
     "open_issues_count": 0,
-    "forks_count": 22
+    "forks_count": 24
   },
   {
     "full_name": "Skyvern-AI/skyvern",
-    "stargazers_count": 10389,
-    "open_issues_count": 31,
-    "forks_count": 705
+    "stargazers_count": 10472,
+    "open_issues_count": 29,
+    "forks_count": 716
   },
   {
     "full_name": "ajavageek/boot-tracing",
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "sickcodes/Docker-OSX",
-    "stargazers_count": 48441,
-    "open_issues_count": 373,
-    "forks_count": 2688
+    "stargazers_count": 48540,
+    "open_issues_count": 375,
+    "forks_count": 2703
   },
   {
     "full_name": "datakurre/camunda-cockpit-plugins",
     "stargazers_count": 71,
-    "open_issues_count": 4,
-    "forks_count": 29
+    "open_issues_count": 5,
+    "forks_count": 30
   },
   {
     "full_name": "krahets/hello-algo",
-    "stargazers_count": 98288,
-    "open_issues_count": 25,
-    "forks_count": 12448
+    "stargazers_count": 98809,
+    "open_issues_count": 22,
+    "forks_count": 12478
   },
   {
     "full_name": "selcuksert/digilib",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "cloudnative-pg/cloudnative-pg",
-    "stargazers_count": 4661,
-    "open_issues_count": 416,
-    "forks_count": 311
+    "stargazers_count": 4683,
+    "open_issues_count": 411,
+    "forks_count": 312
   },
   {
     "full_name": "barmac/bpmn-js-copy-as-image",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "jonatan-ivanov/teahouse",
-    "stargazers_count": 234,
+    "stargazers_count": 235,
     "open_issues_count": 1,
     "forks_count": 78
   },
@@ -92,7 +92,7 @@
   {
     "full_name": "nfrankel/opentelemetry-tracing",
     "stargazers_count": 58,
-    "open_issues_count": 5,
+    "open_issues_count": 2,
     "forks_count": 23
   },
   {
@@ -110,8 +110,8 @@
   {
     "full_name": "bpm-crafters/process-engine-api",
     "stargazers_count": 12,
-    "open_issues_count": 11,
-    "forks_count": 0
+    "open_issues_count": 14,
+    "forks_count": 1
   },
   {
     "full_name": "bpm-crafters/process-engine-worker",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "xmolecules/jmolecules",
-    "stargazers_count": 1250,
+    "stargazers_count": 1251,
     "open_issues_count": 21,
     "forks_count": 104
   },
@@ -129,7 +129,7 @@
     "full_name": "xsreality/spring-modulith-with-ddd",
     "stargazers_count": 132,
     "open_issues_count": 1,
-    "forks_count": 20
+    "forks_count": 21
   },
   {
     "full_name": "ahmadalammar/order-management-system",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "sartography/SpiffWorkflow",
-    "stargazers_count": 1694,
+    "stargazers_count": 1695,
     "open_issues_count": 7,
-    "forks_count": 313
+    "forks_count": 314
   },
   {
     "full_name": "holunda-io/camunda-two-datasources",
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "gavlyukovskiy/spring-boot-data-source-decorator",
-    "stargazers_count": 862,
+    "stargazers_count": 864,
     "open_issues_count": 11,
     "forks_count": 82
   },
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 4467,
+    "stargazers_count": 4479,
     "open_issues_count": 221,
     "forks_count": 844
   }
