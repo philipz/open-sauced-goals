@@ -2,20 +2,20 @@
   {
     "full_name": "moshfeu/vscode-compare-folders",
     "stargazers_count": 118,
-    "open_issues_count": 24,
+    "open_issues_count": 25,
     "forks_count": 17
   },
   {
     "full_name": "denyspoltorak/publications",
-    "stargazers_count": 218,
+    "stargazers_count": 224,
     "open_issues_count": 0,
     "forks_count": 29
   },
   {
     "full_name": "Skyvern-AI/skyvern",
-    "stargazers_count": 11102,
-    "open_issues_count": 38,
-    "forks_count": 772
+    "stargazers_count": 11151,
+    "open_issues_count": 36,
+    "forks_count": 777
   },
   {
     "full_name": "ajavageek/boot-tracing",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "sickcodes/Docker-OSX",
-    "stargazers_count": 49024,
-    "open_issues_count": 382,
-    "forks_count": 2743
+    "stargazers_count": 49063,
+    "open_issues_count": 383,
+    "forks_count": 2748
   },
   {
     "full_name": "datakurre/operaton-cockpit-plugins",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "krahets/hello-algo",
-    "stargazers_count": 103515,
-    "open_issues_count": 21,
-    "forks_count": 12992
+    "stargazers_count": 103752,
+    "open_issues_count": 24,
+    "forks_count": 13020
   },
   {
     "full_name": "selcuksert/digilib",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "cloudnative-pg/cloudnative-pg",
-    "stargazers_count": 4880,
+    "stargazers_count": 4907,
     "open_issues_count": 391,
     "forks_count": 324
   },
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "jonatan-ivanov/teahouse",
-    "stargazers_count": 253,
+    "stargazers_count": 254,
     "open_issues_count": 1,
-    "forks_count": 79
+    "forks_count": 80
   },
   {
     "full_name": "dashaun/paketo-arm64",
@@ -98,7 +98,7 @@
   {
     "full_name": "nfrankel/opentelemetry-tracing",
     "stargazers_count": 61,
-    "open_issues_count": 9,
+    "open_issues_count": 11,
     "forks_count": 23
   },
   {
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "xmolecules/jmolecules",
-    "stargazers_count": 1275,
+    "stargazers_count": 1278,
     "open_issues_count": 20,
     "forks_count": 105
   },
   {
     "full_name": "xsreality/spring-modulith-with-ddd",
-    "stargazers_count": 141,
+    "stargazers_count": 142,
     "open_issues_count": 5,
-    "forks_count": 21
+    "forks_count": 22
   },
   {
     "full_name": "ahmadalammar/order-management-system",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "gavlyukovskiy/spring-boot-data-source-decorator",
-    "stargazers_count": 885,
+    "stargazers_count": 886,
     "open_issues_count": 13,
     "forks_count": 83
   }
