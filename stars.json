@@ -7,15 +7,15 @@
   },
   {
     "full_name": "denyspoltorak/publications",
-    "stargazers_count": 224,
+    "stargazers_count": 251,
     "open_issues_count": 0,
-    "forks_count": 29
+    "forks_count": 30
   },
   {
     "full_name": "Skyvern-AI/skyvern",
-    "stargazers_count": 11151,
-    "open_issues_count": 36,
-    "forks_count": 777
+    "stargazers_count": 11189,
+    "open_issues_count": 40,
+    "forks_count": 778
   },
   {
     "full_name": "ajavageek/boot-tracing",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "sickcodes/Docker-OSX",
-    "stargazers_count": 49063,
+    "stargazers_count": 49100,
     "open_issues_count": 383,
     "forks_count": 2748
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "krahets/hello-algo",
-    "stargazers_count": 103752,
-    "open_issues_count": 24,
-    "forks_count": 13020
+    "stargazers_count": 104030,
+    "open_issues_count": 23,
+    "forks_count": 13050
   },
   {
     "full_name": "selcuksert/digilib",
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "cloudnative-pg/cloudnative-pg",
-    "stargazers_count": 4907,
-    "open_issues_count": 391,
+    "stargazers_count": 4919,
+    "open_issues_count": 405,
     "forks_count": 324
   },
   {
@@ -116,18 +116,18 @@
   {
     "full_name": "bpm-crafters/process-engine-api",
     "stargazers_count": 13,
-    "open_issues_count": 20,
+    "open_issues_count": 21,
     "forks_count": 1
   },
   {
     "full_name": "bpm-crafters/process-engine-worker",
     "stargazers_count": 6,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 1
   },
   {
     "full_name": "xmolecules/jmolecules",
-    "stargazers_count": 1278,
+    "stargazers_count": 1280,
     "open_issues_count": 20,
     "forks_count": 105
   },
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "sartography/SpiffWorkflow",
-    "stargazers_count": 1713,
+    "stargazers_count": 1714,
     "open_issues_count": 7,
     "forks_count": 313
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "gavlyukovskiy/spring-boot-data-source-decorator",
-    "stargazers_count": 886,
-    "open_issues_count": 13,
+    "stargazers_count": 888,
+    "open_issues_count": 15,
     "forks_count": 83
   }
 ]
