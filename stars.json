@@ -1,33 +1,33 @@
 [
   {
     "full_name": "svcvit/Awesome-Dify-Workflow",
-    "stargazers_count": 1942,
+    "stargazers_count": 1975,
     "open_issues_count": 2,
-    "forks_count": 198
+    "forks_count": 201
   },
   {
     "full_name": "langgenius/dify",
-    "stargazers_count": 56612,
-    "open_issues_count": 354,
-    "forks_count": 8362
+    "stargazers_count": 56926,
+    "open_issues_count": 344,
+    "forks_count": 8414
   },
   {
     "full_name": "moshfeu/vscode-compare-folders",
-    "stargazers_count": 118,
-    "open_issues_count": 25,
+    "stargazers_count": 119,
+    "open_issues_count": 26,
     "forks_count": 17
   },
   {
     "full_name": "denyspoltorak/publications",
-    "stargazers_count": 259,
+    "stargazers_count": 260,
     "open_issues_count": 0,
     "forks_count": 31
   },
   {
     "full_name": "Skyvern-AI/skyvern",
-    "stargazers_count": 11268,
-    "open_issues_count": 42,
-    "forks_count": 788
+    "stargazers_count": 11295,
+    "open_issues_count": 41,
+    "forks_count": 789
   },
   {
     "full_name": "ajavageek/boot-tracing",
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "sickcodes/Docker-OSX",
-    "stargazers_count": 49157,
+    "stargazers_count": 49180,
     "open_issues_count": 383,
-    "forks_count": 2747
+    "forks_count": 2748
   },
   {
     "full_name": "datakurre/operaton-cockpit-plugins",
     "stargazers_count": 71,
-    "open_issues_count": 3,
-    "forks_count": 30
+    "open_issues_count": 4,
+    "forks_count": 31
   },
   {
     "full_name": "krahets/hello-algo",
-    "stargazers_count": 104441,
+    "stargazers_count": 105379,
     "open_issues_count": 25,
-    "forks_count": 13108
+    "forks_count": 13201
   },
   {
     "full_name": "selcuksert/digilib",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "cloudnative-pg/cloudnative-pg",
-    "stargazers_count": 4950,
-    "open_issues_count": 416,
-    "forks_count": 326
+    "stargazers_count": 4963,
+    "open_issues_count": 417,
+    "forks_count": 327
   },
   {
     "full_name": "barmac/bpmn-js-copy-as-image",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "jonatan-ivanov/teahouse",
-    "stargazers_count": 256,
+    "stargazers_count": 258,
     "open_issues_count": 1,
     "forks_count": 80
   },
@@ -110,7 +110,7 @@
   {
     "full_name": "nfrankel/opentelemetry-tracing",
     "stargazers_count": 61,
-    "open_issues_count": 5,
+    "open_issues_count": 9,
     "forks_count": 23
   },
   {
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "sartography/SpiffWorkflow",
-    "stargazers_count": 1714,
+    "stargazers_count": 1715,
     "open_issues_count": 7,
     "forks_count": 314
   }
